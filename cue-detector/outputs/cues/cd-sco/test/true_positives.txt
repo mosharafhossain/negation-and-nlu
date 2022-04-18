@@ -1,0 +1,36 @@
+gold_cue	predicted_cue	count
+not	not	160
+no	no	100
+n't	n't	68
+nothing	nothing	44
+never	never	40
+without	without	14
+unusual	unusual	8
+neither nor	neither nor	6
+nor	nor	6
+impossible	impossible	2
+uninteresting	uninteresting	2
+unsolved	unsolved	2
+unframed	unframed	2
+useless	useless	2
+irregular	irregular	2
+unacquainted	unacquainted	2
+inexplicable	inexplicable	2
+impatiently	impatiently	2
+unmarried	unmarried	2
+unlike	unlike	2
+unlikely	unlikely	2
+unsuccessful	unsuccessful	2
+ceaseless	ceaseless	2
+inseparable	inseparable	2
+unexpected	unexpected	2
+unthinkable	unthinkable	2
+uneasiness	uneasiness	2
+neither nor nor	neither nor nor	2
+none	none	2
+irrelevant	irrelevant	2
+unmitigated	unmitigated	2
+breathless	breathless	2
+unoccupied	unoccupied	2
+unconventional	unconventional	2
+senseless	senseless	2

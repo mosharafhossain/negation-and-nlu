@@ -1,0 +1,1090 @@
+gold_cue	predicted_cue	sentence
+[]	[]	In choosing a few typical cases which illustrate the remarkable mental qualities of my friend , Sherlock Holmes , I have endeavoured , as far as possible , to select those which presented the minimum of sensationalism , while offering a fair field for his talents .
+[impossible] [not] 	[unfortunately] [impossible] [not] 	It is , however , unfortunately impossible entirely to separate the sensational from the criminal , and a chronicler is left in the dilemma that he must either sacrifice details which are essential to his statement and so give a false impression of the problem , or he must use matter which chance , and not choice , has provided him with .
+[]	[]	With this short preface I shall turn to my notes of what proved to be a strange , though a peculiarly terrible , chain of events .
+[]	[]	It was a blazing hot day in August .
+[]	[]	Baker Street was like an oven , and the glare of the sunlight upon the yellow brickwork of the house across the road was painful to the eye .
+[]	[]	It was hard to believe that these were the same walls which loomed so gloomily through the fogs of winter .
+[]	[]	Our blinds were half-drawn , and Holmes lay curled upon the sofa , reading and re-reading a letter which he had received by the morning post .
+[no] 	[no] 	For myself , my term of service in India had trained me to stand heat better than cold , and a thermometer at ninety was no hardship .
+[uninteresting] 	[uninteresting] 	But the morning paper was uninteresting .
+[]	[]	Parliament had risen .
+[]	[]	Everybody was out of town , and I yearned for the glades of the New Forest or the shingle of Southsea .
+[neithernor] 	[neithernor] 	A depleted bank account had caused me to postpone my holiday , and as to my companion , neither the country nor the sea presented the slightest attraction to him .
+[unsolved] 	[unsolved] 	He loved to lie in the very center of five millions of people , with his filaments stretching out and running through them , responsive to every little rumour or suspicion of unsolved crime .
+[no] 	[no] 	Appreciation of nature found no place among his many gifts , and his only change was when he turned his mind from the evil-doer of the town to track down his brother of the country .
+[]	[]	Finding that Holmes was too absorbed for conversation I had tossed aside the barren paper , and leaning back in my chair I fell into a brown study .
+[]	[]	Suddenly my companion 's voice broke in upon my thoughts :
+[]	[]	`` You are right , Watson , '' said he .
+[]	[]	`` It does seem a most preposterous way of settling a dispute . ''
+[]	[]	`` Most preposterous ! '' I exclaimed , and then suddenly realizing how he had echoed the inmost thought of my soul , I sat up in my chair and stared at him in blank amazement .
+[]	[]	`` What is this , Holmes ? '' I cried .
+[]	[]	`` This is beyond anything which I could have imagined . ''
+[]	[]	He laughed heartily at my perplexity .
+[]	[unspoken] 	`` You remember , '' said he , `` that some little time ago when I read you the passage in one of Poe 's sketches in which a close reasoner follows the unspoken thoughts of his companion , you were inclined to treat the matter as a mere tour-de-force of the author .
+[incredulity] 	[]	On my remarking that I was constantly in the habit of doing the same thing you expressed incredulity . ''
+[no] 	[no] 	`` Oh , no ! ''
+[not] 	[not] 	`` Perhaps not with your tongue , my dear Watson , but certainly with your eyebrows .
+[]	[]	So when I saw you throw down your paper and enter upon a train of thought , I was very happy to have the opportunity of reading it off , and eventually of breaking into it , as a proof that I had been in rapport with you . ''
+[farfrom] 	[]	But I was still far from satisfied .
+[]	[]	`` In the example which you read to me , '' said I , `` the reasoner drew his conclusions from the actions of the man whom he observed .
+[]	[]	If I remember right , he stumbled over a heap of stones , looked up at the stars , and so on .
+[]	[]	But I have been seated quietly in my chair , and what clues can I have given you ? ''
+[injustice] 	[]	`` You do yourself an injustice .
+[]	[]	The features are given to man as the means by which he shall express his emotions , and yours are faithful servants . ''
+[]	[]	`` Do you mean to say that you read my train of thoughts from my features ? ''
+[]	[]	`` Your features and especially your eyes .
+[not] 	[not] 	Perhaps you can not yourself recall how your reverie commenced ? ''
+[No] [not] 	[No] [not] 	`` No , I can not . ''
+[]	[]	`` Then I will tell you .
+[]	[]	After throwing down your paper , which was the action which drew my attention to you , you sat for half a minute with a vacant expression .
+[]	[]	Then your eyes fixed themselves upon your newly framed picture of General Gordon , and I saw by the alteration in your face that a train of thought had been started .
+[not] 	[not] 	But it did not lead very far .
+[unframed] 	[unframed] 	Your eyes flashed across to the unframed portrait of Henry Ward Beecher which stands upon the top of your books .
+[]	[]	Then you glanced up at the wall , and of course your meaning was obvious .
+[]	[]	You were thinking that if the portrait were framed it would just cover that bare space and correspond with Gordon 's picture there . ''
+[]	[]	`` You have followed me wonderfully ! '' I exclaimed .
+[]	[]	`` So far I could hardly have gone astray .
+[]	[]	But now your thoughts went back to Beecher , and you looked hard across as if you were studying the character in his features .
+[]	[]	Then your eyes ceased to pucker , but you continued to look across , and your face was thoughtful .
+[]	[]	You were recalling the incidents of Beecher 's career .
+[without] [not] 	[not] [without] 	I was well aware that you could not do this without thinking of the mission which he undertook on behalf of the North at the time of the Civil War , for I remember your expressing your passionate indignation at the way in which he was received by the more turbulent of our people .
+[without] [not] 	[not] [without] 	You felt so strongly about it that I knew you could not think of Beecher without thinking of that also .
+[]	[]	When a moment later I saw your eyes wander away from the picture , I suspected that your mind had now turned to the Civil War , and when I observed that your lips set , your eyes sparkled , and your hands clenched I was positive that you were indeed thinking of the gallantry which was shown by both sides in that desperate struggle .
+[]	[]	But then , again , your face grew sadder , you shook your head .
+[useless] 	[useless] 	You were dwelling upon the sadness and horror and useless waste of life .
+[]	[]	Your hand stole towards your own old wound and a smile quivered on your lips , which showed me that the ridiculous side of this method of settling international questions had forced itself upon your mind .
+[]	[]	At this point I agreed with you that it was preposterous and was glad to find that all my deductions had been correct . ''
+[]	[]	`` Absolutely ! '' said I .
+[]	[]	`` And now that you have explained it , I confess that I am as amazed as before . ''
+[]	[]	`` It was very superficial , my dear Watson , I assure you .
+[not] [not] 	[not] [not] 	I should not have intruded it upon your attention had you not shown some incredulity the other day .
+[]	[]	But I have in my hands here a little problem which may prove to be more difficult of solution than my small essay in thought reading .
+[]	[]	Have you observed in the paper a short paragraph referring to the remarkable contents of a packet sent through the post to Miss Cushing , of Cross Street , Croydon ? ''
+[No] [nothing] 	[No] [nothing] 	`` No , I saw nothing . ''
+[]	[]	`` Ah ! then you must have overlooked it .
+[]	[]	Just toss it over to me .
+[]	[]	Here it is , under the financial column .
+[]	[]	Perhaps you would be good enough to read it aloud . ''
+[]	[]	I picked up the paper which he had thrown back to me and read the paragraph indicated .
+[]	[]	It was headed , `` A Gruesome Packet . ''
+[]	[]	`` Miss Susan Cushing , living at Cross Street , Croydon , has been made the victim of what must be regarded as a peculiarly revolting practical joke unless some more sinister meaning should prove to be attached to the incident .
+[]	[]	At two o'clock yesterday afternoon a small packet , wrapped in brown paper , was handed in by the postman .
+[]	[]	A cardboard box was inside , which was filled with coarse salt .
+[]	[]	On emptying this , Miss Cushing was horrified to find two human ears , apparently quite freshly severed .
+[]	[]	The box had been sent by parcel post from Belfast upon the morning before .
+[no] 	[no] 	There is no indication as to the sender , and the matter is the more mysterious as Miss Cushing , who is a maiden lady of fifty , has led a most retired life , and has so few acquaintances or correspondents that it is a rare event for her to receive anything through the post .
+[irregular] 	[irregular] 	Some years ago , however , when she resided at Penge , she let apartments in her house to three young medical students , whom she was obliged to get rid of on account of their noisy and irregular habits .
+[]	[]	The police are of opinion that this outrage may have been perpetrated upon Miss Cushing by these youths , who owed her a grudge and who hoped to frighten her by sending her these relics of the dissecting-rooms .
+[]	[]	Some probability is lent to the theory by the fact that one of these students came from the north of Ireland , and , to the best of Miss Cushing 's belief , from Belfast .
+[]	[]	In the meantime , the matter is being actively investigated , Mr. Lestrade , one of the very smartest of our detective officers , being in charge of the case . ''
+[]	[]	`` So much for the Daily Chronicle , '' said Holmes as I finished reading .
+[]	[]	`` Now for our friend Lestrade .
+[]	[]	I had a note from him this morning , in which he says :
+[]	[]	`` I think that this case is very much in your line .
+[]	[]	We have every hope of clearing the matter up , but we find a little difficulty in getting anything to work upon .
+[no] 	[no] 	We have , of course , wired to the Belfast post-office , but a large number of parcels were handed in upon that day , and they have no means of identifying this particular one , or of remembering the sender .
+[not] 	[not] 	The box is a half-pound box of honeydew tobacco and does not help us in any way .
+[]	[]	The medical student theory still appears to me to be the most feasible , but if you should have a few hours to spare I should be very happy to see you out here .
+[]	[]	I shall be either at the house or in the police-station all day .
+[]	[]	`` What say you , Watson ?
+[]	[]	Can you rise superior to the heat and run down to Croydon with me on the off chance of a case for your annals ? ''
+[]	[]	`` I was longing for something to do . ''
+[]	[]	`` You shall have it then .
+[]	[]	Ring for our boots and tell them to order a cab .
+[]	[]	I 'll be back in a moment when I have changed my dressing-gown and filled my cigar-case . ''
+[]	[]	A shower of rain fell while we were in the train , and the heat was far less oppressive in Croydon than in town .
+[]	[]	Holmes had sent on a wire , so that Lestrade , as wiry , as dapper , and as ferret-like as ever , was waiting for us at the station .
+[]	[]	A walk of five minutes took us to Cross Street , where Miss Cushing resided .
+[]	[]	It was a very long street of two-story brick houses , neat and prim , with whitened stone steps and little groups of aproned women gossiping at the doors .
+[]	[]	Halfway down , Lestrade stopped and tapped at a door , which was opened by a small servant girl .
+[]	[]	Miss Cushing was sitting in the front room , into which we were ushered .
+[]	[]	She was a placid-faced woman , with large , gentle eyes , and grizzled hair curving down over her temples on each side .
+[]	[]	A worked antimacassar lay upon her lap and a basket of coloured silks stood upon a stool beside her .
+[]	[]	`` They are in the outhouse , those dreadful things , '' said she as Lestrade entered .
+[]	[]	`` I wish that you would take them away altogether . ''
+[]	[]	`` So I shall , Miss Cushing .
+[]	[]	I only kept them here until my friend , Mr. Holmes , should have seen them in your presence . ''
+[]	[]	`` Why in my presence , sir ? ''
+[]	[]	`` In case he wished to ask any questions . ''
+[nothing] 	[nothing] 	`` What is the use of asking me questions when I tell you I know nothing whatever about it ? ''
+[]	[]	`` Quite so , madam , '' said Holmes in his soothing way .
+[no] 	[no] 	`` I have no doubt that you have been annoyed more than enough already over this business . ''
+[]	[]	`` Indeed I have , sir .
+[]	[]	I am a quiet woman and live a retired life .
+[]	[]	It is something new for me to see my name in the papers and to find the police in my house .
+[n't] 	[n't] 	I wo n't have those things in here , Mr. Lestrade .
+[]	[]	If you wish to see them you must go to the outhouse . ''
+[]	[]	It was a small shed in the narrow garden which ran behind the house .
+[]	[]	Lestrade went in and brought out a yellow cardboard box , with a piece of brown paper and some string .
+[]	[]	There was a bench at the end of the path , and we all sat down while Homes examined one by one , the articles which Lestrade had handed to him .
+[]	[]	`` The string is exceedingly interesting , '' he remarked , holding it up to the light and sniffing at it .
+[]	[]	`` What do you make of this string , Lestrade ? ''
+[]	[]	`` It has been tarred . ''
+[]	[]	`` Precisely .
+[]	[]	It is a piece of tarred twine .
+[]	[]	You have also , no doubt , remarked that Miss Cushing has cut the cord with a scissors , as can be seen by the double fray on each side .
+[]	[]	This is of importance . ''
+[not] 	[not] 	`` I can not see the importance , '' said Lestrade .
+[]	[]	`` The importance lies in the fact that the knot is left intact , and that this knot is of a peculiar character . ''
+[]	[]	`` It is very neatly tied .
+[]	[]	I had already made a note of that effect , '' said Lestrade complacently .
+[]	[]	`` So much for the string , then , '' said Holmes , smiling , `` now for the box wrapper .
+[]	[]	Brown paper , with a distinct smell of coffee .
+[not] 	[not] 	What , did you not observe it ?
+[no] 	[no] 	I think there can be no doubt of it .
+[]	[]	Address printed in rather straggling characters :
+[]	[]	` Miss S. Cushing , Cross Street , Croydon . '
+[]	[]	Done with a broad-pointed pen , probably a J , and with very inferior ink .
+[]	[]	The word ` Croydon ' has been originally spelled with an ` i ' , which has been changed to ` y ' .
+[unacquainted] 	[unacquainted] 	The parcel was directed , then , by a man -- the printing is distinctly masculine -- of limited education and unacquainted with the town of Croydon .
+[]	[]	So far , so good !
+[]	[nothing] 	The box is a yellow , half-pound honeydew box , with nothing distinctive save two thumb marks at the left bottom corner .
+[]	[]	It is filled with rough salt of the quality used for preserving hides and other of the coarser commercial purposes .
+[]	[]	And embedded in it are these very singular enclosures . ''
+[]	[]	He took out the two ears as he spoke , and laying a board across his knee he examined them minutely , while Lestrade and I , bending forward on each side of him , glanced alternately at these dreadful relics and at the thoughtful , eager face of our companion .
+[]	[]	Finally he returned them to the box once more and sat for a while in deep meditation .
+[not] 	[not] 	`` You have observed , of course , '' said he at last , `` that the ears are not a pair . ''
+[]	[]	`` Yes , I have noticed that .
+[]	[]	But if this were the practical joke of some students from the dissecting-rooms , it would be as easy for them to send two odd ears as a pair . ''
+[]	[]	`` Precisely .
+[not] 	[not] 	But this is not a practical joke . ''
+[]	[]	`` You are sure of it ? ''
+[]	[]	`` The presumption is strongly against it .
+[]	[]	Bodies in the dissecting-rooms are injected with preservative fluid .
+[no] 	[no] 	These ears bear no signs of this .
+[]	[]	They are fresh , too .
+[]	[]	They have been cut off with a blunt instrument , which would hardly happen if a student had done it .
+[not] 	[not] 	Again , carbolic or rectified spirits would be the preservatives which would suggest themselves to the medical mind , certainly not rough salt .
+[no] 	[no] 	I repeat that there is no practical joke here , but that we are investigating a serious crime . ''
+[]	[]	A vague thrill ran through me as I listened to my companion 's words and saw the stern gravity which had hardened his features .
+[inexplicable] 	[inexplicable] 	This brutal preliminary seemed to shadow forth some strange and inexplicable horror in the background .
+[]	[]	Lestrade , however , shook his head like a man who is only half convinced .
+[]	[]	`` There are objections to the joke theory , no doubt , '' said he , `` but there are much stronger reasons against the other .
+[]	[]	We know that this woman has led a most quiet and respectable life at Penge and here for the last twenty years .
+[]	[]	She has hardly been away from her home for a day during that time .
+[]	[]	Why on earth , then , should any criminal send her the proofs of his guilt , especially as , unless she is a most consummate actress , she understands quite as little of the matter as we do ? ''
+[]	[]	`` That is the problem which we have to solve , '' Holmes answered , `` and for my part I shall set about it by presuming that my reasoning is correct , and that a double murder has been committed .
+[]	[]	One of these ears is a woman 's , small , finely formed , and pierced for an earring .
+[discoloured] 	[]	The other is a man 's , sun-burned , discoloured , and also pierced for an earring .
+[]	[]	These two people are presumably dead , or we should have heard their story before now .
+[]	[]	To-day is Friday .
+[]	[]	The packet was posted on Thursday morning .
+[]	[]	The tragedy , then , occurred on Wednesday or Tuesday , or earlier .
+[]	[]	If the two people were murdered , who but their murderer would have sent this sign of his work to Miss Cushing ?
+[]	[]	We may take it that the sender of the packet is the man whom we want .
+[]	[]	But he must have some strong reason for sending Miss Cushing this packet .
+[]	[]	What reason then ?
+[]	[]	It must have been to tell her that the deed was done ! or to pain her , perhaps .
+[]	[]	But in that case she knows who it is .
+[]	[]	Does she know ?
+[]	[]	I doubt it .
+[]	[]	If she knew , why should she call the police in ?
+[no] 	[no] 	She might have buried the ears , and no one would have been the wiser .
+[]	[]	That is what she would have done if she had wished to shield the criminal .
+[not] 	[not] 	But if she does not wish to shield him she would give his name .
+[]	[]	There is a tangle here which needs straightening out . ''
+[]	[]	He had been talking in a high , quick voice , staring blankly up over the garden fence , but now he sprang briskly to his feet and walked towards the house .
+[]	[]	`` I have a few questions to ask Miss Cushing , '' said he .
+[]	[]	`` In that case I may leave you here , '' said Lestrade , `` for I have another small business on hand .
+[nothing] 	[nothing] 	I think that I have nothing further to learn from Miss Cushing .
+[]	[]	You will find me at the police-station . ''
+[]	[]	`` We shall look in on our way to the train , '' answered Holmes .
+[]	[]	A moment later he and I were back in the front room , where the impassive lady was still quietly working away at her antimacassar .
+[]	[]	She put it down on her lap as we entered and looked at us with her frank , searching blue eyes .
+[never] 	[never] 	`` I am convinced , sir , '' she said , `` that this matter is a mistake , and that the parcel was never meant for me at all .
+[]	[]	I have said this several times to the gentlemen from Scotland Yard , but he simply laughs at me .
+[not] 	[not] 	I have not an enemy in the world , as far as I know , so why should anyone play me such a trick ? ''
+[]	[]	`` I am coming to be of the same opinion , Miss Cushing , '' said Holmes , taking a seat beside her .
+[]	[]	`` I think that it is more than probable -- '' He paused , and I was surprised , on glancing round to see that he was staring with singular intentness at the lady 's profile .
+[]	[]	Surprise and satisfaction were both for an instant to be read upon his eager face , though when she glanced round to find out the cause of his silence he had become as demure as ever .
+[nothing] 	[nothing] 	I stared hard myself at her flat , grizzled hair , her trim cap , her little gilt earrings , her placid features ; but I could see nothing which could account for my companion 's evident excitement .
+[]	[]	`` There were one or two questions -- ''
+[impatiently] 	[impatiently] 	`` Oh , I am weary of questions ! '' cried Miss Cushing impatiently .
+[]	[]	`` You have two sisters , I believe . ''
+[]	[]	`` How could you know that ? ''
+[no] 	[no] 	`` I observed the very instant that I entered the room that you have a portrait group of three ladies upon the mantelpiece , one of whom is undoubtedly yourself , while the others are so exceedingly like you that there could be no doubt of the relationship . ''
+[]	[]	`` Yes , you are quite right .
+[]	[]	Those are my sisters , Sarah and Mary . ''
+[]	[]	`` And here at my elbow is another portrait , taken at Liverpool , of your younger sister , in the company of a man who appears to be a steward by his uniform .
+[unmarried] 	[unmarried] 	I observe that she was unmarried at the time . ''
+[]	[]	`` You are very quick at observing . ''
+[]	[]	`` That is my trade . ''
+[]	[]	`` Well , you are quite right .
+[]	[]	But she was married to Mr. Browner a few days afterwards .
+[n't] 	[n't] 	He was on the South American line when that was taken , but he was so fond of her that he could n't abide to leave her for so long , and he got into the Liverpool and London boats . ''
+[]	[]	`` Ah , the Conqueror , perhaps ? ''
+[No] 	[No] 	`` No , the May Day , when last I heard .
+[]	[]	Jim came down here to see me once .
+[]	[]	That was before he broke the pledge ; but afterwards he would always take drink when he was ashore , and a little drink would send him stark , staring mad .
+[]	[]	Ah ! it was a bad day that ever he took a glass in his hand again .
+[n't] 	[n't] 	First he dropped me , then he quarrelled with Sarah , and now that Mary has stopped writing we do n't know how things are going with them . ''
+[]	[]	It was evident that Miss Cushing had come upon a subject on which she felt very deeply .
+[]	[]	Like most people who lead a lonely life , she was shy at first , but ended by becoming extremely communicative .
+[]	[]	She told us many details about her brother-in-law the steward , and then wandering off on the subject of her former lodgers , the medical students , she gave us a long account of their delinquencies , with their names and those of their hospitals .
+[]	[]	Holmes listened attentively to everything , throwing in a question from time to time .
+[]	[]	`` About your second sister , Sarah , '' said he .
+[not] 	[not] 	`` I wonder , since you are both maiden ladies , that you do not keep house together . ''
+[n't] [no] 	[n't] [no] 	`` Ah ! you do n't know Sarah 's temper or you would wonder no more .
+[]	[]	I tried it when I came to Croydon , and we kept on until about two months ago , when we had to part .
+[n't] 	[n't] 	I do n't want to say a word against my own sister , but she was always meddlesome and hard to please , was Sarah . ''
+[]	[]	`` You say that she quarrelled with your Liverpool relations . ''
+[]	[]	`` Yes , and they were the best of friends at one time .
+[]	[]	Why , she went up there to live in order to be near them .
+[no] 	[no] 	And now she has no word hard enough for Jim Browner .
+[]	[]	The last six months that she was here she would speak of nothing but his drinking and his ways .
+[]	[]	He had caught her meddling , I suspect , and given her a bit of his mind , and that was the start of it . ''
+[]	[]	`` Thank you , Miss Cushing , '' said Holmes , rising and bowing .
+[]	[]	`` Your sister Sarah lives , I think you said , at New Street , Wallington ?
+[nothing] 	[nothing] 	Good-bye , and I am very sorry that you should have been troubled over a case with which , as you say , you have nothing whatever to do . ''
+[]	[]	There was a cab passing as we came out , and Holmes hailed it .
+[]	[]	`` How far to Wallington ? '' he asked .
+[]	[]	`` Only about a mile , sir . ''
+[]	[]	`` Very good .
+[]	[]	Jump in , Watson .
+[]	[]	We must strike while the iron is hot .
+[]	[]	Simple as the case is , there have been one or two very instructive details in connection with it .
+[]	[]	Just pull up at a telegraph office as you pass , cabby . ''
+[]	[]	Holmes sent off a short wire and for the rest of the drive lay back in the cab , with his hat tilted over his nose to keep the sun from his face .
+[unlike] [not] 	[not] [unlike] 	Our drive pulled up at a house which was not unlike the one which we had just quitted .
+[]	[]	My companion ordered him to wait , and had his hand upon the knocker , when the door opened and a grave young gentleman in black , with a very shiny hat , appeared on the step .
+[]	[]	`` Is Miss Cushing at home ? '' asked Holmes .
+[]	[]	`` Miss Sarah Cushing is extremely ill , '' said he .
+[]	[]	`` She has been suffering since yesterday from brain symptoms of great severity .
+[not] 	[not] 	As her medical adviser , I can not possibly take the responsibility of allowing anyone to see her .
+[]	[]	I should recommend you to call again in ten days . ''
+[]	[]	He drew on his gloves , closed the door , and marched off down the street .
+[n't] [n't] 	[n't] [n't] 	`` Well , if we ca n't we ca n't , '' said Holmes , cheerfully .
+[not] [not] 	[not] [not] 	`` Perhaps she could not or would not have told you much . ''
+[not] 	[not] 	`` I did not wish her to tell me anything .
+[]	[]	I only wanted to look at her .
+[]	[]	However , I think that I have got all that I want .
+[]	[]	Drive us to some decent hotel , cabby , where we may have some lunch , and afterwards we shall drop down upon friend Lestrade at the police-station . ''
+[]	[]	We had a pleasant little meal together , during which Holmes would talk about nothing but violins , narrating with great exultation how he had purchased his own Stradivarius , which was worth at least five hundred guineas , at a Jew broker 's in Tottenham Court Road for fifty-five shillings .
+[]	[]	This led him to Paganini , and we sat for an hour over a bottle of claret while he told me anecdote after anecdote of that extraordinary man .
+[]	[]	The afternoon was far advanced and the hot glare had softened into a mellow glow before we found ourselves at the police-station .
+[]	[]	Lestrade was waiting for us at the door .
+[]	[]	`` A telegram for you , Mr. Holmes , '' said he .
+[]	[]	`` Ha !
+[]	[]	It is the answer ! ''
+[]	[]	He tore it open , glanced his eyes over it , and crumpled it into his pocket .
+[]	[]	`` That 's all right , '' said he .
+[]	[]	`` Have you found out anything ? ''
+[]	[]	`` I have found out everything ! ''
+[]	[]	`` What ! ''
+[]	[]	Lestrade stared at him in amazement .
+[]	[]	`` You are joking . ''
+[never] 	[never] 	`` I was never more serious in my life .
+[]	[]	A shocking crime has been committed , and I think I have now laid bare every detail of it . ''
+[]	[]	`` And the criminal ? ''
+[]	[]	Holmes scribbled a few words upon the back of one of his visiting cards and threw it over to Lestrade .
+[]	[]	`` That is the name , '' he said .
+[not] 	[not] 	`` You can not effect an arrest until to-morrow night at the earliest .
+[not] 	[not] 	I should prefer that you do not mention my name at all in connection with the case , as I choose to be only associated with those crimes which present some difficulty in their solution .
+[]	[]	Come on , Watson . ''
+[]	[]	We strode off together to the station , leaving Lestrade still staring with a delighted face at the card which Holmes had thrown him .
+[]	[]	`` The case , '' said Sherlock Holmes as we chatted over our cigars that night in our rooms at Baker Street , `` is one where , as in the investigations which you have chronicled under the names of ` A Study in Scarlet ' and of ` The Sign of Four , ' we have been compelled to reason backward from effects to causes .
+[]	[]	I have written to Lestrade asking him to supply us with the details which are now wanting , and which he will only get after he had secured his man .
+[]	[]	That he may be safely trusted to do , for although he is absolutely devoid of reason , he is as tenacious as a bulldog when he once understands what he has to do , and indeed , it is just this tenacity which has brought him to the top at Scotland Yard . ''
+[not] 	[not] 	`` Your case is not complete , then ? '' I asked .
+[]	[]	`` It is fairly complete in essentials .
+[]	[]	We know who the author of the revolting business is , although one of the victims still escapes us .
+[]	[]	Of course , you have formed your own conclusions . ''
+[]	[]	`` I presume that this Jim Browner , the steward of a Liverpool boat , is the man whom you suspect ? ''
+[]	[]	`` Oh ! it is more than a suspicion . ''
+[not] 	[not] 	`` And yet I can not see anything save very vague indications . ''
+[nothing] 	[nothing] 	`` On the contrary , to my mind nothing could be more clear .
+[]	[]	Let me run over the principal steps .
+[]	[]	We approached the case , you remember , with an absolutely blank mind , which is always an advantage .
+[no] 	[no] 	We had formed no theories .
+[]	[]	We were simply there to observe and to draw inferences from our observations .
+[]	[]	What did we see first ?
+[]	[]	A very placid and respectable lady , who seemed quite innocent of any secret , and a portrait which showed me that she had two younger sisters .
+[]	[]	It instantly flashed across my mind that the box might have been meant for one of these .
+[]	[]	I set the idea aside as one which could be disproved or confirmed at our leisure .
+[]	[]	Then we went to the garden , as you remember , and we saw the very singular contents of the little yellow box .
+[]	[]	`` The string was of the quality which is used by sail-makers aboard ship , and at once a whiff of the sea was perceptible in our investigation .
+[]	[]	When I observed that the knot was one which is popular with sailors , that the parcel had been posted at a port , and that the male ear was pierced for an earring which is so much more common among sailors than landsmen , I was quite certain that all the actors in the tragedy were to be found among our seafaring classes .
+[]	[]	`` When I came to examine the address of the packet I observed that it was to Miss S. Cushing .
+[]	[]	Now , the oldest sister would , of course , be Miss Cushing , and although her initial was ` S ' it might belong to one of the others as well .
+[]	[]	In that case we should have to commence our investigation from a fresh basis altogether .
+[]	[]	I therefore went into the house with the intention of clearing up this point .
+[]	[]	I was about to assure Miss Cushing that I was convinced that a mistake had been made when you may remember that I came suddenly to a stop .
+[]	[]	The fact was that I had just seen something which filled me with surprise and at the same time narrowed the field of our inquiry immensely .
+[no] 	[no] 	`` As a medical man , you are aware , Watson , that there is no part of the body which varies so much as the human ear .
+[]	[]	Each ear is as a rule quite distinctive and differs from all other ones .
+[]	[]	In last year 's Anthropological Journal you will find two short monographs from my pen upon the subject .
+[]	[]	I had , therefore , examined the ears in the box with the eyes of an expert and had carefully noted their anatomical peculiarities .
+[]	[]	Imagine my surprise , then , when on looking at Miss Cushing I perceived that her ear corresponded exactly with the female ear which I had just inspected .
+[]	[]	The matter was entirely beyond coincidence .
+[]	[]	There was the same shortening of the pinna , the same broad curve of the upper lobe , the same convolution of the inner cartilage .
+[]	[]	In all essentials it was the same ear .
+[]	[]	`` In the first place , her sister 's name was Sarah , and her address had until recently been the same , so that it was quite obvious how the mistake had occurred and for whom the packet was meant .
+[]	[]	Then we heard of this steward , married to the third sister , and learned that he had at one time been so intimate with Miss Sarah that she had actually gone up to Liverpool to be near the Browners , but a quarrel had afterwards divided them .
+[undoubtedly] 	[]	This quarrel had put a stop to all communications for some months , so that if Browner had occasion to address a packet to Miss Sarah , he would undoubtedly have done so to her old address .
+[]	[]	`` And now the matter had begun to straighten itself out wonderfully .
+[]	[]	We had learned of the existence of this steward , an impulsive man , of strong passions -- you remember that he threw up what must have been a very superior berth in order to be nearer to his wife -- subject , too , to occasional fits of hard drinking .
+[]	[]	We had reason to believe that his wife had been murdered , and that a man -- presumably a seafaring man -- had been murdered at the same time .
+[]	[]	Jealousy , of course , at once suggests itself as the motive for the crime .
+[]	[]	And why should these proofs of the deed be sent to Miss Sarah Cushing ?
+[]	[]	Probably because during her residence in Liverpool she had some hand in bringing about the events which led to the tragedy .
+[]	[]	You will observe that this line of boats call at Belfast , Dublin , and Waterford ; so that , presuming that Browner had committed the deed and had embarked at once upon his steamer , the May Day , Belfast would be the first place at which he could post his terrible packet .
+[unlikely] 	[unlikely] 	`` A second solution was at this stage obviously possible , and although I thought it exceedingly unlikely , I was determined to elucidate it before going further .
+[unsuccessful] 	[unsuccessful] 	An unsuccessful lover might have killed Mr. and Mrs. Browner , and the male ear might have belonged to the husband .
+[]	[]	There were many grave objections to this theory , but it was conceivable .
+[]	[]	I therefore sent off a telegram to my friend Algar , of the Liverpool force , and asked him to find out if Mrs. Browner were at home , and if Browner had departed in the May Day .
+[]	[]	Then we went on to Wallington to visit Miss Sarah .
+[]	[]	`` I was curious , in the first place , to see how far the family ear had been reproduced in her .
+[not] 	[not] 	Then , of course , she might give us very important information , but I was not sanguine that she would .
+[]	[]	She must have heard of the business the day before , since all Croydon was ringing with it , and she alone could have understood for whom the packet was meant .
+[]	[]	If she had been willing to help justice she would probably have communicated with the police already .
+[]	[]	However , it was clearly our duty to see her , so we went .
+[]	[]	We found that the news of the arrival of the packet -- for her illness dated from that time -- had such an effect upon her as to bring on brain fever .
+[]	[]	It was clearer than ever that she understood its full significance , but equally clear that we should have to wait some time for any assistance from her .
+[]	[]	`` However , we were really independent of her help .
+[]	[]	Our answers were waiting for us at the police-station , where I had directed Algar to send them .
+[Nothing] 	[Nothing] 	Nothing could be more conclusive .
+[]	[]	Mrs. Browner 's house had been closed for more than three days , and the neighbours were of opinion that she had gone south to see her relatives .
+[]	[]	It had been ascertained at the shipping offices that Browner had left aboard of the May Day , and I calculate that she is due in the Thames tomorrow night .
+[no] 	[no] 	When he arrives he will be met by the obtuse but resolute Lestrade , and I have no doubt that we shall have all our details filled in . ''
+[not] 	[not] 	Sherlock Holmes was not disappointed in his expectations .
+[]	[]	Two days later he received a bulky envelope , which contained a short note from the detective , and a typewritten document , which covered several pages of foolscap .
+[]	[]	`` Lestrade has got him all right , '' said Holmes , glancing up at me .
+[]	[]	`` Perhaps it would interest you to hear what he says .
+[]	[]	`` My dear Mr. Holmes :
+[]	[]	In accordance with the scheme which we had formed in order to test our theories '' [ `` the ` we ' is rather fine , Watson , is it not ? '' ] `` I went down to the Albert Dock yesterday at 6 p.m. , and boarded the S.S. May Day , belonging to the Liverpool , Dublin , and London Steam Packet Company .
+[]	[]	On inquiry , I found that there was a steward on board of the name of James Browner and that he had acted during the voyage in such an extraordinary manner that the captain had been compelled to relieve him of his duties .
+[]	[]	On descending to his berth , I found him seated upon a chest with his head sunk upon his hands , rocking himself to and fro .
+[]	[]	He is a big , powerful chap , clean-shaven , and very swarthy -- something like Aldrige , who helped us in the bogus laundry affair .
+[no] 	[no] 	He jumped up when he heard my business , and I had my whistle to my lips to call a couple of river police , who were round the corner , but he seemed to have no heart in him , and he held out his hands quietly enough for the darbies .
+[nothing] 	[nothing] 	We brought him along to the cells , and his box as well , for we thought there might be something incriminating ; but , bar a big sharp knife such as most sailors have , we got nothing for our trouble .
+[no] 	[no] 	However , we find that we shall want no more evidence , for on being brought before the inspector at the station he asked leave to make a statement , which was , of course , taken down , just as he made it , by our shorthand man .
+[]	[]	We had three copies typewritten , one of which I enclose .
+[]	[]	The affair proves , as I always thought it would , to be an extremely simple one , but I am obliged to you for assisting me in my investigation .
+[]	[]	With kind regards ,
+[]	[]	`` Yours very truly ,
+[]	[]	`` G. Lestrade .
+[]	[]	`` Hum !
+[n't] 	[n't] 	The investigation really was a very simple one , '' remarked Holmes , `` but I do n't think it struck him in that light when he first called us in .
+[]	[]	However , let us see what Jim Browner has to say for himself .
+[]	[]	This is his statement as made before Inspector Montgomery at the Shadwell Police Station , and it has the advantage of being verbatim . ''
+[]	[]	`` ` Have I anything to say ?
+[]	[]	Yes , I have a deal to say .
+[]	[]	I have to make a clean breast of it all .
+[]	[]	You can hang me , or you can leave me alone .
+[n't] 	[n't] 	I do n't care a plug which you do .
+[not] [n't] 	[not] [n't] 	I tell you I 've not shut an eye in sleep since I did it , and I do n't believe I ever will again until I get past all waking .
+[]	[]	Sometimes it 's his face , but most generally it 's hers .
+[never] 	[never] [without] 	I 'm never without one or the other before me .
+[]	[]	He looks frowning and black-like , but she has a kind o ' surprise upon her face .
+[]	[]	Ay , the white lamb , she might well be surprised when she read death on a face that had seldom looked anything but love upon her before .
+[]	[]	`` ` But it was Sarah 's fault , and may the curse of a broken man put a blight on her and set the blood rotting in her veins !
+[not] 	[not] 	It 's not that I want to clear myself .
+[]	[]	I know that I went back to drink , like the beast that I was .
+[]	[never] 	But she would have forgiven me ; she would have stuck as close to me as a rope to a block if that woman had never darkened our door .
+[]	[]	For Sarah Cushing loved me -- that 's the root of the business -- she loved me until all her love turned to poisonous hate when she knew that I thought more of my wife 's footmark in the mud than I did of her whole body and soul .
+[]	[]	`` ` There were three sisters altogether .
+[]	[]	The old one was just a good woman , the second was a devil , and the third was an angel .
+[]	[]	Sarah was thirty-three , and Mary was twenty-nine when I married .
+[no] 	[no] 	We were just as happy as the day was long when we set up house together , and in all Liverpool there was no better woman than my Mary .
+[]	[]	And then we asked Sarah up for a week , and the week grew into a month , and one thing led to another , until she was just one of ourselves .
+[]	[]	`` ` I was blue ribbon at that time , and we were putting a little money by , and all was as bright as a new dollar .
+[]	[]	My God , whoever would have thought that it could have come to this ?
+[]	[]	Whoever would have dreamed it ?
+[]	[]	`` ` I used to be home for the week-ends very often , and sometimes if the ship were held back for cargo I would have a whole week at a time , and in this way I saw a deal of my sister-in-law , Sarah .
+[]	[]	She was a fine tall woman , black and quick and fierce , with a proud way of carrying her head , and a glint from her eye like a spark from a flint .
+[never] 	[never] 	But when little Mary was there I had never a thought of her , and that I swear as I hope for God 's mercy .
+[never] 	[never] 	`` ` It had seemed to me sometimes that she liked to be alone with me , or to coax me out for a walk with her , but I had never thought anything of that .
+[]	[]	But one evening my eyes were opened .
+[]	[]	I had come up from the ship and found my wife out , but Sarah at home .
+[]	[]	`` Where 's Mary ? '' I asked .
+[]	[]	`` Oh , she has gone to pay some accounts . ''
+[impatient] 	[]	I was impatient and paced up and down the room .
+[]	[]	`` Ca n't you be happy for five minutes without Mary , Jim ? '' says she .
+[n't] 	[n't] 	`` It 's a bad compliment to me that you ca n't be contented with my society for so short a time . ''
+[]	[]	`` That 's all right , my lass , '' said I , putting out my hand towards her in a kindly way , but she had it in both hers in an instant , and they burned as if they were in a fever .
+[]	[]	I looked into her eyes and I read it all there .
+[no] [nor] 	[no] [nor] 	There was no need for her to speak , nor for me either .
+[]	[]	I frowned and drew my hand away .
+[]	[]	Then she stood by my side in silence for a bit , and then put up her hand and patted me on the shoulder .
+[]	[]	`` Steady old Jim ! '' said she , and with a kind o ' mocking laugh , she ran out of the room .
+[]	[]	`` ` Well , from that time Sarah hated me with her whole heart and soul , and she is a woman who can hate , too .
+[never] 	[never] 	I was a fool to let her go on biding with us -- a besotted fool -- but I never said a word to Mary , for I knew it would grieve her .
+[]	[]	Things went on much as before , but after a time I began to find that there was a bit of a change in Mary herself .
+[]	[]	She had always been so trusting and so innocent , but now she became queer and suspicious , wanting to know where I had been and what I had been doing , and whom my letters were from , and what I had in my pockets , and a thousand such follies .
+[ceaseless] 	[irritable] [ceaseless] [nothing] 	Day by day she grew queerer and more irritable , and we had ceaseless rows about nothing .
+[]	[]	I was fairly puzzled by it all .
+[inseparable] 	[inseparable] 	Sarah avoided me now , but she and Mary were just inseparable .
+[not] 	[not] 	I can see now how she was plotting and scheming and poisoning my wife 's mind against me , but I was such a blind beetle that I could not understand it at the time .
+[not] 	[not] 	Then I broke my blue ribbon and began to drink again , but I think I should not have done it if Mary had been the same as ever .
+[]	[]	She had some reason to be disgusted with me now , and the gap between us began to be wider and wider .
+[]	[]	And then this Alec Fairbairn chipped in , and things became a thousand times blacker .
+[]	[]	`` ` It was to see Sarah that he came to my house first , but soon it was to see us , for he was a man with winning ways , and he made friends wherever he went .
+[]	[]	He was a dashing , swaggering chap , smart and curled , who had seen half the world and could talk of what he had seen .
+[n't] 	[n't] 	He was good company , I wo n't deny it , and he had wonderful polite ways with him for a sailor man , so that I think there must have been a time when he knew more of the poop than the forecastle .
+[never] 	[never] 	For a month he was in and out of my house , and never once did it cross my mind that harm might come of his soft , tricky ways .
+[]	[]	And then at last something made me suspect , and from that day my peace was gone forever .
+[]	[]	`` ` It was only a little thing , too .
+[unexpected] 	[unexpected] 	I had come into the parlour unexpected , and as I walked in at the door I saw a light of welcome on my wife 's face .
+[]	[]	But as she saw who it was it faded again , and she turned away with a look of disappointment .
+[]	[]	That was enough for me .
+[no] 	[no] 	There was no one but Alec Fairbairn whose step she could have mistaken for mine .
+[]	[]	If I could have seen him then I should have killed him , for I have always been like a madman when my temper gets loose .
+[]	[]	Mary saw the devil 's light in my eyes , and she ran forward with her hands on my sleeve .
+[n't] [n't] 	[n't] [n't] 	`` Do n't , Jim , do n't ! '' says she .
+[]	[]	`` Where 's Sarah ? '' I asked .
+[]	[]	`` In the kitchen , '' says she .
+[never] 	[never] 	`` Sarah , '' says I as I went in , `` this man Fairbairn is never to darken my door again . ''
+[not] 	[]	`` Why not ? '' says she .
+[]	[]	`` Because I order it . ''
+[not] [not] 	[not] [not] 	`` Oh ! '' says she , `` if my friends are not good enough for this house , then I am not good enough for it either . ''
+[]	[]	`` You can do what you like , '' says I , `` but if Fairbairn shows his face here again I 'll send you one of his ears for a keepsake . ''
+[never] 	[never] 	She was frightened by my face , I think , for she never answered a word , and the same evening she left my house .
+[n't] 	[n't] 	`` ` Well , I do n't know now whether it was pure devilry on the part of this woman , or whether she thought that she could turn me against my wife by encouraging her to misbehave .
+[]	[]	Anyway , she took a house just two streets off and let lodgings to sailors .
+[]	[]	Fairbairn used to stay there , and Mary would go round to have tea with her sister and him .
+[n't] 	[n't] 	How often she went I do n't know , but I followed her one day , and as I broke in at the door Fairbairn got away over the back garden wall , like the cowardly skunk that he was .
+[]	[]	I swore to my wife that I would kill her if I found her in his company again , and I led her back with me , sobbing and trembling , and as white as a piece of paper .
+[no] 	[no] 	There was no trace of love between us any longer .
+[]	[]	I could see that she hated me and feared me , and when the thought of it drove me to drink , then she despised me as well .
+[not] 	[not] 	`` ` Well , Sarah found that she could not make a living in Liverpool , so she went back , as I understand , to live with her sister in Croydon , and things jogged on much the same as ever at home .
+[]	[]	And then came this week and all the misery and ruin .
+[]	[]	`` 'It was in this way .
+[]	[]	We had gone on the May Day for a round voyage of seven days , but a hogshead got loose and started one of our plates , so that we had to put back into port for twelve hours .
+[]	[]	I left the ship and came home , thinking what a surprise it would be for my wife , and hoping that maybe she would be glad to see me so soon .
+[never] 	[never] 	The thought was in my head as I turned into my own street , and at that moment a cab passed me , and there she was , sitting by the side of Fairbairn , the two chatting and laughing , with never a thought for me as I stood watching them from the footpath .
+[not] 	[not] 	`` ` I tell you , and I give you my word for it , that from that moment I was not my own master , and it is all like a dim dream when I look back on it .
+[]	[]	I had been drinking hard of late , and the two things together fairly turned my brain .
+[]	[]	There 's something throbbing in my head now , like a docker 's hammer , but that morning I seemed to have all Niagara whizzing and buzzing in my ears .
+[]	[]	`` 'Well , I took to my heels , and I ran after the cab .
+[without] 	[without] 	I had a heavy oak stick in my hand , and I tell you I saw red from the first ; but as I ran I got cunning , too , and hung back a little to see them without being seen .
+[]	[]	They pulled up soon at the railway station .
+[without] 	[without] 	There was a good crowd round the booking-office , so I got quite close to them without being seen .
+[]	[]	They took tickets for New Brighton .
+[]	[]	So did I , but I got in three carriages behind them .
+[never] 	[never] 	When we reached it they walked along the Parade , and I was never more than a hundred yards from them .
+[]	[]	At last I saw them hire a boat and start for a row , for it was a very hot day , and they thought , no doubt , that it would be cooler on the water .
+[]	[]	`` ` It was just as if they had been given into my hands .
+[not] 	[not] 	There was a bit of a haze , and you could not see more than a few hundred yards .
+[]	[]	I hired a boat for myself , and I pulled after them .
+[]	[]	I could see the blur of their craft , but they were going nearly as fast as I , and they must have been a long mile from the shore before I caught them up .
+[]	[]	The haze was like a curtain all round us , and there were we three in the middle of it .
+[]	[]	My God , shall I ever forget their faces when they saw who was in the boat that was closing in upon them ?
+[]	[]	She screamed out .
+[]	[]	He swore like a madman and jabbed at me with an oar , for he must have seen death in my eyes .
+[]	[]	I got past it and got one in with my stick that crushed his head like an egg .
+[]	[]	I would have spared her , perhaps , for all my madness , but she threw her arms round him , crying out to him , and calling him `` Alec . ''
+[]	[]	I struck again , and she lay stretched beside him .
+[]	[]	I was like a wild beast then that had tasted blood .
+[]	[]	If Sarah had been there , by the Lord , she should have joined them .
+[]	[]	I pulled out my knife , and -- well , there !
+[]	[]	I 've said enough .
+[]	[]	It gave me a kind of savage joy when I thought how Sarah would feel when she had such signs as these of what her meddling had brought about .
+[]	[]	Then I tied the bodies into the boat , stove a plank , and stood by until they had sunk .
+[]	[]	I knew very well that the owner would think that they had lost their bearings in the haze , and had drifted off out to sea .
+[without] 	[without] 	I cleaned myself up , got back to land , and joined my ship without a soul having a suspicion of what had passed .
+[]	[]	That night I made up the packet for Sarah Cushing , and next day I sent it from Belfast .
+[]	[]	`` ` There you have the whole truth of it .
+[not] 	[not] 	You can hang me , or do what you like with me , but you can not punish me as I have been punished already .
+[not] 	[not] 	I can not shut my eyes but I see those two faces staring at me -- staring at me as they stared when my boat broke through the haze .
+[]	[]	I killed them quick , but they are killing me slow ; and if I have another night of it I shall be either mad or dead before morning .
+[n't] 	[n't] 	You wo n't put me alone into a cell , sir ?
+[n't] 	[n't] 	For pity 's sake do n't , and may you be treated in your day of agony as you treat me now . '
+[]	[]	`` What is the meaning of it , Watson ? '' said Holmes solemnly as he laid down the paper .
+[]	[]	`` What object is served by this circle of misery and violence and fear ?
+[unthinkable] 	[unthinkable] 	It must tend to some end , or else our universe is ruled by chance , which is unthinkable .
+[]	[]	But what end ?
+[]	[]	There is the great standing perennial problem to which human reason is as far from an answer as ever . ''
+[not] [uneasiness] [nor] 	[not] [uneasiness] [nor] 	`` Well , Mrs. Warren , I can not see that you have any particular cause for uneasiness , nor do I understand why I , whose time is of some value , should interfere in the matter .
+[]	[]	I really have other things to engage me . ''
+[]	[]	So spoke Sherlock Holmes and turned back to the great scrapbook in which he was arranging and indexing some of his recent material .
+[]	[]	But the landlady had the pertinacity and also the cunning of her sex .
+[]	[]	She held her ground firmly .
+[]	[]	`` You arranged an affair for a lodger of mine last year , '' she said -- `` Mr. Fairdale Hobbs . ''
+[]	[]	`` Ah , yes -- a simple matter . ''
+[never] 	[never] 	`` But he would never cease talking of it -- your kindness , sir , and the way in which you brought light into the darkness .
+[]	[]	I remembered his words when I was in doubt and darkness myself .
+[]	[]	I know you could if you only would . ''
+[]	[]	Holmes was accessible upon the side of flattery , and also , to do him justice , upon the side of kindliness .
+[]	[]	The two forces made him lay down his gum-brush with a sigh of resignation and push back his chair .
+[]	[]	`` Well , well , Mrs. Warren , let us hear about it , then .
+[n't] 	[n't] 	You do n't object to tobacco , I take it ?
+[]	[]	Thank you , Watson -- the matches !
+[not] 	[not] 	You are uneasy , as I understand , because your new lodger remains in his rooms and you can not see him .
+[not] 	[not] 	Why , bless you , Mrs. Warren , if I were your lodger you often would not see me for weeks on end . ''
+[]	[]	`` No doubt , sir ; but this is different .
+[]	[]	It frightens me , Mr. Holmes .
+[n't] 	[n't] 	I ca n't sleep for fright .
+[never] 	[never] 	To hear his quick step moving here and moving there from early morning to late at night , and yet never to catch so much as a glimpse of him -- it 's more than I can stand .
+[no] 	[no] 	My husband is as nervous over it as I am , but he is out at his work all day , while I get no rest from it .
+[]	[]	What is he hiding for ?
+[]	[]	What has he done ?
+[]	[]	Except for the girl , I am all alone in the house with him , and it 's more than my nerves can stand . ''
+[]	[]	Holmes leaned forward and laid his long , thin fingers upon the woman 's shoulder .
+[]	[]	He had an almost hypnotic power of soothing when he wished .
+[]	[]	The scared look faded from her eyes , and her agitated features smoothed into their usual commonplace .
+[]	[]	She sat down in the chair which he had indicated .
+[]	[]	`` If I take it up I must understand every detail , '' said he .
+[]	[]	`` Take time to consider .
+[]	[]	The smallest point may be the most essential .
+[]	[]	You say that the man came ten days ago and paid you for a fortnight 's board and lodging ? ''
+[]	[]	`` He asked my terms , sir .
+[]	[]	I said fifty shillings a week .
+[]	[]	There is a small sitting-room and bedroom , and all complete , at the top of the house . ''
+[]	[]	`` Well ? ''
+[]	[]	`` He said , ` I 'll pay you five pounds a week if I can have it on my own terms . '
+[]	[]	I 'm a poor woman , sir , and Mr. Warren earns little , and the money meant much to me .
+[]	[]	He took out a ten-pound note , and he held it out to me then and there .
+[]	[]	` You can have the same every fortnight for a long time to come if you keep the terms , ' he said .
+[not] [nomore] 	[no] 	` If not , I 'll have no more to do with you . '
+[]	[]	`` What were the terms ? ''
+[]	[]	`` Well , sir , they were that he was to have a key of the house .
+[]	[]	That was all right .
+[]	[]	Lodgers often have them .
+[never] 	[never] 	Also , that he was to be left entirely to himself and never , upon any excuse , to be disturbed . ''
+[Nothing] 	[Nothing] 	`` Nothing wonderful in that , surely ? ''
+[Not] 	[Not] 	`` Not in reason , sir .
+[]	[]	But this is out of all reason .
+[neithernornor] 	[neithernornor] 	He has been there for ten days , and neither Mr. Warren , nor I , nor the girl has once set eyes upon him .
+[never] 	[never] 	We can hear that quick step of his pacing up and down , up and down , night , morning , and noon ; but except on that first night he had never once gone out of the house . ''
+[]	[]	`` Oh , he went out the first night , did he ? ''
+[]	[]	`` Yes , sir , and returned very late -- after we were all in bed .
+[not] 	[not] 	He told me after he had taken the rooms that he would do so and asked me not to bar the door .
+[]	[]	I heard him come up the stair after midnight . ''
+[]	[]	`` But his meals ? ''
+[]	[]	`` It was his particular direction that we should always , when he rang , leave his meal upon a chair , outside his door .
+[]	[]	Then he rings again when he has finished , and we take it down from the same chair .
+[]	[]	If he wants anything else he prints it on a slip of paper and leaves it . ''
+[]	[]	`` Prints it ? ''
+[]	[]	`` Yes , sir ; prints it in pencil .
+[nothing] 	[nothing] 	Just the word , nothing more .
+[]	[]	Here 's the one I brought to show you -- soap .
+[]	[]	Here 's another -- match .
+[]	[]	This is one he left the first morning -- daily gazette .
+[]	[]	I leave that paper with his breakfast every morning . ''
+[unusual] 	[unusual] 	`` Dear me , Watson , '' said Homes , staring with great curiosity at the slips of foolscap which the landlady had handed to him , `` this is certainly a little unusual .
+[]	[]	Seclusion I can understand ; but why print ?
+[]	[]	Printing is a clumsy process .
+[]	[not] 	Why not write ?
+[]	[]	What would it suggest , Watson ? ''
+[]	[]	`` That he desired to conceal his handwriting . ''
+[]	[]	`` But why ?
+[]	[]	What can it matter to him that his landlady should have a word of his writing ?
+[]	[]	Still , it may be as you say .
+[]	[]	Then , again , why such laconic messages ? ''
+[not] 	[not] 	`` I can not imagine . ''
+[]	[]	`` It opens a pleasing field for intelligent speculation .
+[unusual] [not] 	[not] [unusual] 	The words are written with a broad-pointed , violet-tinted pencil of a not unusual pattern .
+[]	[]	You will observe that the paper is torn away at the side here after the printing was done , so that the ` s ' of ` soap ' is partly gone .
+[]	[]	Suggestive , Watson , is it not ? ''
+[]	[]	`` Of caution ? ''
+[]	[]	`` Exactly .
+[]	[]	There was evidently some mark , some thumbprint , something which might give a clue to the person 's identity .
+[]	[]	Now .
+[]	[]	Mrs. Warren , you say that the man was of middle size , dark , and bearded .
+[]	[]	What age would he be ? ''
+[not] 	[not] 	`` Youngish , sir -- not over thirty . ''
+[no] 	[no] 	`` Well , can you give me no further indications ? ''
+[]	[]	`` He spoke good English , sir , and yet I thought he was a foreigner by his accent . ''
+[]	[]	`` And he was well dressed ? ''
+[]	[]	`` Very smartly dressed , sir -- quite the gentleman .
+[nothing] 	[nothing] 	Dark clothes -- nothing you would note . ''
+[no] 	[no] 	`` He gave no name ? ''
+[No] 	[No] 	`` No , sir . ''
+[no] 	[no] 	`` And has had no letters or callers ? ''
+[None] 	[None] 	`` None . ''
+[]	[]	`` But surely you or the girl enter his room of a morning ? ''
+[No] 	[No] 	`` No , sir ; he looks after himself entirely . ''
+[]	[]	`` Dear me ! that is certainly remarkable .
+[]	[]	What about his luggage ? ''
+[nothing] 	[nothing] 	`` He had one big brown bag with him -- nothing else . ''
+[n't] 	[n't] 	`` Well , we do n't seem to have much material to help us .
+[nothing] [absolutelynothing] 	[nothing] [nothing] 	Do you say nothing has come out of that room -- absolutely nothing ? ''
+[]	[]	The landlady drew an envelope from her bag ; from it she shook out two burnt matches and a cigarette-end upon the table .
+[]	[]	`` They were on his tray this morning .
+[]	[]	I brought them because I had heard that you can read great things out of small ones . ''
+[]	[]	Holmes shrugged his shoulders .
+[nothing] 	[nothing] 	`` There is nothing here , '' said he .
+[]	[]	`` The matches have , of course , been used to light cigarettes .
+[]	[]	That is obvious from the shortness of the burnt end .
+[]	[]	Half the match is consumed in lighting a pipe or cigar .
+[]	[]	But , dear me ! this cigarette stub is certainly remarkable .
+[]	[]	The gentleman was bearded and moustached , you say ? ''
+[]	[]	`` Yes , sir . ''
+[n't] 	[n't] 	`` I do n't understand that .
+[]	[]	I should say that only a clean-shaven man could have smoked this .
+[]	[]	Why , Watson , even your modest moustache would have been singed . ''
+[]	[]	`` A holder ? '' I suggested .
+[No] [no] 	[No] [no] 	`` No , no ; the end is matted .
+[not] 	[not] 	I suppose there could not be two people in your rooms , Mrs. Warren ? ''
+[No] 	[No] 	`` No , sir .
+[]	[]	He eats so little that I often wonder it can keep life in one . ''
+[]	[]	`` Well , I think we must wait for a little more material .
+[nothing] 	[nothing] 	After all , you have nothing to complain of .
+[not] [unusual] 	[not] [unusual] 	You have received your rent , and he is not a troublesome lodger , though he is certainly an unusual one .
+[no] 	[no] 	He pays you well , and if he chooses to lie concealed it is no direct business of yours .
+[no] 	[no] 	We have no excuse for an intrusion upon his privacy until we have some reason to think that there is a guilty reason for it .
+[n't] 	[n't] 	I 've taken up the matter , and I wo n't lose sight of it .
+[]	[]	Report to me if anything fresh occurs , and rely upon my assistance if it should be needed .
+[]	[]	`` There are certainly some points of interest in this case , Watson , '' he remarked when the landlady had left us .
+[]	[]	`` It may , of course , be trivial -- individual eccentricity ; or it may be very much deeper than appears on the surface .
+[]	[]	The first thing that strikes one is the obvious possibility that the person now in the rooms may be entirely different from the one who engaged them . ''
+[]	[]	`` Why should you think so ? ''
+[not] 	[not] 	`` Well , apart from this cigarette-end , was it not suggestive that the only time the lodger went out was immediately after his taking the rooms ?
+[]	[]	He came back -- or someone came back -- when all witnesses were out of the way .
+[no] 	[no] 	We have no proof that the person who came back was the person who went out .
+[]	[]	Then , again , the man who took the rooms spoke English well .
+[]	[]	This other , however , prints ` match ' when it should have been ` matches . '
+[not] 	[not] 	I can imagine that the word was taken out of a dictionary , which would give the noun but not the plural .
+[]	[absence] 	The laconic style may be to conceal the absence of knowledge of English .
+[]	[]	Yes , Watson , there are good reasons to suspect that there has been a substitution of lodgers . ''
+[]	[]	`` But for what possible end ? ''
+[]	[]	`` Ah ! there lies our problem .
+[]	[]	There is one rather obvious line of investigation . ''
+[]	[]	He took down the great book in which , day by day , he filed the agony columns of the various London journals .
+[]	[]	`` Dear me ! '' said he , turning over the pages , `` what a chorus of groans , cries , and bleatings !
+[]	[]	What a rag-bag of singular happenings !
+[unusual] 	[unusual] 	But surely the most valuable hunting-ground that ever was given to a student of the unusual !
+[not] [without] 	[not] [without] 	This person is alone and can not be approached by letter without a breach of that absolute secrecy which is desired .
+[]	[]	How is any news or any message to reach him from without ?
+[]	[]	Obviously by advertisement through a newspaper .
+[no] 	[no] 	There seems no other way , and fortunately we need concern ourselves with the one paper only .
+[]	[]	Here are the Daily Gazette extracts of the last fortnight .
+[]	[]	` Lady with a black boa at Prince 's Skating Club ' -- that we may pass .
+[not] [irrelevant] 	[not] [irrelevant] 	` Surely Jimmy will not break his mother 's heart ' -- that appears to be irrelevant .
+[not] 	[not] 	` If the lady who fainted on Brixton bus ' -- she does not interest me .
+[unmitigated] 	[unmitigated] 	` Every day my heart longs -- ' Bleat , Watson -- unmitigated bleat !
+[]	[]	Ah , this is a little more possible .
+[]	[]	Listen to this :
+[]	[]	` Be patient .
+[]	[]	Will find some sure means of communications .
+[]	[]	Meanwhile , this column .
+[]	[]	G . '
+[]	[]	That is two days after Mrs. Warren 's lodger arrived .
+[]	[]	It sounds plausible , does it not ?
+[not] 	[not] 	The mysterious one could understand English , even if he could not print it .
+[]	[]	Let us see if we can pick up the trace again .
+[]	[]	Yes , here we are -- three days later .
+[]	[]	` Am making successful arrangements .
+[]	[]	Patience and prudence .
+[]	[]	The clouds will pass .
+[]	[]	G . '
+[Nothing] 	[Nothing] 	Nothing for a week after that .
+[]	[]	Then comes something much more definite :
+[]	[]	` The path is clearing .
+[]	[]	If I find chance signal message remember code agreed --
+[]	[]	One A , two B , and so on .
+[]	[]	You will hear soon .
+[]	[]	G . '
+[nothing] 	[nothing] 	That was in yesterday 's paper , and there is nothing in to-day 's .
+[]	[]	It 's all very appropriate to Mrs. Warren 's lodger .
+[n't] 	[n't] 	If we wait a little , Watson , I do n't doubt that the affair will grow more intelligible . ''
+[]	[]	So it proved ; for in the morning I found my friend standing on the hearthrug with his back to the fire and a smile of complete satisfaction upon his face .
+[]	[]	`` How 's this , Watson ? '' he cried , picking up the paper from the table .
+[]	[]	`` ` High red house with white stone facings .
+[]	[]	Third floor .
+[]	[]	Second window left .
+[]	[]	After dusk .
+[]	[]	G . '
+[]	[]	That is definite enough .
+[]	[]	I think after breakfast we must make a little reconnaissance of Mrs. Warren 's neighbourhood .
+[]	[]	Ah , Mrs. Warren ! what news do you bring us this morning ? ''
+[]	[]	Our client had suddenly burst into the room with an explosive energy which told of some new and momentous development .
+[]	[]	`` It 's a police matter , Mr. Holmes ! '' she cried .
+[nomore] 	[no] 	`` I 'll have no more of it !
+[]	[]	He shall pack out of there with his baggage .
+[]	[]	I would have gone straight up and told him so , only I thought it was but fair to you to take your opinion first .
+[]	[]	But I 'm at the end of my patience , and when it comes to knocking my old man about -- ''
+[]	[]	`` Knocking Mr. Warren about ? ''
+[]	[]	`` Using him roughly , anyway . ''
+[]	[]	`` But who used him roughly ? ''
+[]	[]	`` Ah ! that 's what we want to know !
+[]	[]	It was this morning , sir .
+[]	[]	Mr. Warren is a timekeeper at Morton and Waylight 's , in Tottenham Court Road .
+[]	[]	He has to be out of the house before seven .
+[not] 	[not] 	Well , this morning he had not gone ten paces down the road when two men came up behind him , threw a coat over his head , and bundled him into a cab that was beside the curb .
+[]	[]	They drove him an hour , and then opened the door and shot him out .
+[never] 	[never] 	He lay in the roadway so shaken in his wits that he never saw what became of the cab .
+[]	[]	When he picked himself up he found he was on Hampstead Heath ; so he took a bus home , and there he lies now on his sofa , while I came straight round to tell you what had happened . ''
+[]	[]	`` Most interesting , '' said Holmes .
+[]	[]	`` Did he observe the appearance of these men -- did he hear them talk ? ''
+[No] 	[No] 	`` No ; he is clean dazed .
+[]	[]	He just knows that he was lifted up as if by magic and dropped as if by magic .
+[]	[]	Two at least were in it , and maybe three . ''
+[]	[]	`` And you connect this attack with your lodger ? ''
+[no] 	[no] 	`` Well , we 've lived there fifteen years and no such happenings ever came before .
+[]	[]	I 've had enough of him .
+[not] 	[not] 	Money 's not everything .
+[]	[]	I 'll have him out of my house before the day is done . ''
+[]	[]	`` Wait a bit , Mrs. Warren .
+[nothing] 	[nothing] 	Do nothing rash .
+[]	[]	I begin to think that this affair may be very much more important than appeared at first sight .
+[]	[]	It is clear now that some danger is threatening your lodger .
+[]	[]	It is equally clear that his enemies , lying in wait for him near your door , mistook your husband for him in the foggy morning light .
+[]	[]	On discovering their mistake they released him .
+[not] 	[not] 	What they would have done had it not been a mistake , we can only conjecture . ''
+[]	[]	`` Well , what am I to do , Mr. Holmes ? ''
+[]	[]	`` I have a great fancy to see this lodger of yours , Mrs. Warren . ''
+[n't] 	[n't] 	`` I do n't see how that is to be managed , unless you break in the door .
+[]	[unlock] 	I always hear him unlock it as I go down the stair after I leave the tray . ''
+[]	[]	`` He has to take the tray in .
+[]	[]	Surely we could conceal ourselves and see him do it . ''
+[]	[]	The landlady thought for a moment .
+[]	[]	`` Well , sir , there 's the box-room opposite .
+[]	[]	I could arrange a looking-glass , maybe , and if you were behind the door -- ''
+[]	[]	`` Excellent ! '' said Holmes .
+[]	[]	`` When does he lunch ? ''
+[]	[]	`` About one , sir . ''
+[]	[]	`` Then Dr. Watson and I will come round in time .
+[]	[]	For the present , Mrs. Warren , good-bye . ''
+[]	[]	At half-past twelve we found ourselves upon the steps of Mrs. Warren 's house -- a high , thin , yellow-brick edifice in Great Orme Street , a narrow thoroughfare at the northeast side of the British Museum .
+[]	[]	Standing as it does near the corner of the street , it commands a view down Howe Street , with its more pretentious houses .
+[not] 	[not] 	Holmes pointed with a chuckle to one of these , a row of residential flats , which projected so that they could not fail to catch the eye .
+[]	[]	`` See , Watson ! '' said he .
+[]	[]	`` ` High red house with stone facings . '
+[]	[]	There is the signal station all right .
+[]	[]	We know the place , and we know the code ; so surely our task should be simple .
+[]	[]	There 's a ` to let ' card in that window .
+[]	[]	It is evidently an empty flat to which the confederate has access .
+[]	[]	Well , Mrs. Warren , what now ? ''
+[]	[]	`` I have it all ready for you .
+[]	[]	If you will both come up and leave your boots below on the landing , I 'll put you there now . ''
+[]	[]	It was an excellent hiding-place which she had arranged .
+[]	[]	The mirror was so placed that , seated in the dark , we could very plainly see the door opposite .
+[]	[]	We had hardly settled down in it , and Mrs. Warren left us , when a distant tinkle announced that our mysterious neighbour had rung .
+[]	[]	Presently the landlady appeared with the tray , laid it down upon a chair beside the closed door , and then , treading heavily , departed .
+[]	[]	Crouching together in the angle of the door , we kept our eyes fixed upon the mirror .
+[]	[]	Suddenly , as the landlady 's footsteps died away , there was the creak of a turning key , the handle revolved , and two thin hands darted out and lifted the tray from the chair .
+[]	[]	An instant later it was hurriedly replaced , and I caught a glimpse of a dark , beautiful , horrified face glaring at the narrow opening of the box-room .
+[]	[]	Then the door crashed to , the key turned once more , and all was silence .
+[]	[]	Holmes twitched my sleeve , and together we stole down the stair .
+[]	[]	`` I will call again in the evening , '' said he to the expectant landlady .
+[]	[]	`` I think , Watson , we can discuss this business better in our own quarters . ''
+[]	[]	`` My surmise , as you saw , proved to be correct , '' said he , speaking from the depths of his easy-chair .
+[]	[]	`` There has been a substitution of lodgers .
+[no] [not] 	[not] [no] 	What I did not foresee is that we should find a woman , and no ordinary woman , Watson . ''
+[]	[]	`` She saw us . ''
+[]	[]	`` Well , she saw something to alarm her .
+[]	[]	That is certain .
+[]	[]	The general sequence of events is pretty clear , is it not ?
+[]	[]	A couple seek refuge in London from a very terrible and instant danger .
+[]	[]	The measure of that danger is the rigour of their precautions .
+[]	[]	The man , who has some work which he must do , desires to leave the woman in absolute safety while he does it .
+[not] [not] 	[not] [not] 	It is not an easy problem , but he solved it in an original fashion , and so effectively that her presence was not even known to the landlady who supplies her with food .
+[]	[prevent] 	The printed messages , as is now evident , were to prevent her sex being discovered by her writing .
+[not] 	[not] 	The man can not come near the woman , or he will guide their enemies to her .
+[not] 	[not] 	Since he can not communicate with her direct , he has recourse to the agony column of a paper .
+[]	[]	So far all is clear . ''
+[]	[]	`` But what is at the root of it ? ''
+[]	[]	`` Ah , yes , Watson -- severely practical , as usual !
+[]	[]	What is at the root of it all ?
+[]	[]	Mrs. Warren 's whimsical problem enlarges somewhat and assumes a more sinister aspect as we proceed .
+[no] 	[no] 	This much we can say : that it is no ordinary love escapade .
+[]	[]	You saw the woman 's face at the sign of danger .
+[]	[]	We have heard , too , of the attack upon the landlord , which was undoubtedly meant for the lodger .
+[]	[]	These alarms , and the desperate need for secrecy , argue that the matter is one of life or death .
+[not] 	[not] 	The attack upon Mr. Warren further shows that the enemy , whoever they are , are themselves not aware of the substitution of the female lodger for the male .
+[]	[]	It is very curious and complex , Watson . ''
+[]	[]	`` Why should you go further in it ?
+[]	[]	What have you to gain from it ? ''
+[]	[]	`` What , indeed ?
+[]	[]	It is art for art 's sake , Watson .
+[without] 	[without] 	I suppose when you doctored you found yourself studying cases without thought of a fee ? ''
+[]	[]	`` For my education , Holmes . ''
+[never] 	[never] 	`` Education never ends , Watson .
+[]	[]	It is a series of lessons with the greatest for the last .
+[]	[]	This is an instructive case .
+[neithernor] 	[neithernor] 	There is neither money nor credit in it , and yet one would wish to tidy it up .
+[]	[]	When dusk comes we should find ourselves one stage advanced in our investigation . ''
+[]	[]	When we returned to Mrs. Warren 's rooms , the gloom of a London winter evening had thickened into one gray curtain , a dead monotone of colour , broken only by the sharp yellow squares of the windows and the blurred haloes of the gas-lamps .
+[]	[]	As we peered from the darkened sitting-room of the lodging-house , one more dim light glimmered high up through the obscurity .
+[]	[]	`` Someone is moving in that room , '' said Holmes in a whisper , his gaunt and eager face thrust forward to the window-pane .
+[]	[]	`` Yes , I can see his shadow .
+[]	[]	There he is again !
+[]	[]	He has a candle in his hand .
+[]	[]	Now he is peering across .
+[]	[]	He wants to be sure that she is on the lookout .
+[]	[]	Now he begins to flash .
+[]	[]	Take the message also , Watson , that we may check each other .
+[]	[]	A single flash -- that is A , surely .
+[]	[]	Now , then .
+[]	[]	How many did you make it ?
+[]	[]	Twenty .
+[]	[]	So did I .
+[]	[]	That should mean T .
+[]	[]	AT -- that 's intelligible enough .
+[]	[]	Another T .
+[]	[]	Surely this is the beginning of a second word .
+[]	[]	Now , then -- TENTA .
+[]	[]	Dead stop .
+[n't] 	[n't] 	That ca n't be all , Watson ?
+[no] 	[no] 	ATTENTA gives no sense .
+[Nor] 	[Nor] 	Nor is it any better as three words AT , TEN , TA , unless T. A. are a person 's initials .
+[]	[]	There it goes again !
+[]	[]	What 's that ?
+[]	[]	ATTE -- why , it is the same message over again .
+[]	[]	Curious , Watson , very curious .
+[]	[]	Now he is off once more !
+[]	[]	AT -- why he is repeating it for the third time .
+[]	[]	ATTENTA three times !
+[]	[]	How often will he repeat it ?
+[No] 	[No] 	No , that seems to be the finish .
+[]	[]	He has withdrawn from the window .
+[]	[]	What do you make of it , Watson ? ''
+[]	[]	`` A cipher message , Holmes . ''
+[]	[]	My companion gave a sudden chuckle of comprehension .
+[not] 	[not] 	`` And not a very obscure cipher , Watson , '' said he .
+[]	[]	`` Why , of course , it is Italian !
+[]	[]	The A means that it is addressed to a woman .
+[]	[]	` Beware !
+[]	[]	Beware !
+[]	[]	Beware ! '
+[]	[]	How 's that , Watson ?
+[]	[]	`` I believe you have hit it . ''
+[Not] 	[Not] 	`` Not a doubt of it .
+[]	[]	It is a very urgent message , thrice repeated to make it more so .
+[]	[]	But beware of what ?
+[]	[]	Wait a bit , he is coming to the window once more . ''
+[]	[]	Again we saw the dim silhouette of a crouching man and the whisk of the small flame across the window as the signals were renewed .
+[]	[]	They came more rapidly than before -- so rapid that it was hard to follow them .
+[]	[]	`` PERICOLO -- pericolo -- eh , what 's that , Watson ?
+[]	[]	` Danger , ' is n't it ?
+[]	[]	Yes , by Jove , it 's a danger signal .
+[]	[]	There he goes again !
+[]	[]	PERI .
+[]	[]	Halloa , what on earth -- ''
+[]	[]	The light had suddenly gone out , the glimmering square of window had disappeared , and the third floor formed a dark band round the lofty building , with its tiers of shining casements .
+[]	[]	That last warning cry had been suddenly cut short .
+[]	[]	How , and by whom ?
+[]	[]	The same thought occurred on the instant to us both .
+[]	[]	Holmes sprang up from where he crouched by the window .
+[]	[]	`` This is serious , Watson , '' he cried .
+[]	[]	`` There is some devilry going forward !
+[]	[]	Why should such a message stop in such a way ?
+[]	[]	I should put Scotland Yard in touch with this business -- and yet , it is too pressing for us to leave . ''
+[]	[]	`` Shall I go for the police ? ''
+[]	[]	`` We must define the situation a little more clearly .
+[]	[]	It may bear some more innocent interpretation .
+[]	[]	Come , Watson , let us go across ourselves and see what we can make of it . ''
+[]	[]	As we walked rapidly down Howe Street I glanced back at the building which we had left .
+[breathless] 	[breathless] 	There , dimly outlined at the top window , I could see the shadow of a head , a woman 's head , gazing tensely , rigidly , out into the night , waiting with breathless suspense for the renewal of that interrupted message .
+[]	[]	At the doorway of the Howe Street flats a man , muffled in a cravat and greatcoat , was leaning against the railing .
+[]	[]	He started as the hall-light fell upon our faces .
+[]	[]	`` Holmes ! '' he cried .
+[]	[]	`` Why , Gregson ! '' said my companion as he shook hands with the Scotland Yard detective .
+[]	[]	`` Journeys end with lovers ' meetings .
+[]	[]	What brings you here ? ''
+[]	[]	`` The same reasons that bring you , I expect , '' said Gregson .
+[n't] 	[n't] 	`` How you got on to it I ca n't imagine . ''
+[]	[]	`` Different threads , but leading up to the same tangle .
+[]	[]	I 've been taking the signals . ''
+[]	[]	`` Signals ? ''
+[]	[]	`` Yes , from that window .
+[]	[]	They broke off in the middle .
+[]	[]	We came over to see the reason .
+[no] 	[no] 	But since it is safe in your hands I see no object in continuing this business . ''
+[]	[]	`` Wait a bit ! '' cried Gregson eagerly .
+[n't] [never] 	[never] [n't] 	`` I 'll do you this justice , Mr. Holmes , that I was never in a case yet that I did n't feel stronger for having you on my side .
+[]	[]	There 's only the one exit to these flats , so we have him safe . ''
+[]	[]	`` Who is he ? ''
+[]	[]	`` Well , well , we score over you for once , Mr. Holmes .
+[]	[]	You must give us best this time . ''
+[]	[]	He struck his stick sharply upon the ground , on which a cabman , his whip in his hand , sauntered over from a four-wheeler which stood on the far side of the street .
+[]	[]	`` May I introduce you to Mr. Sherlock Holmes ? '' he said to the cabman .
+[]	[]	`` This is Mr. Leverton , of Pinkerton 's American Agency . ''
+[]	[]	`` The hero of the Long Island cave mystery ? '' said Holmes .
+[]	[]	`` Sir , I am pleased to meet you . ''
+[]	[]	The American , a quiet , businesslike young man , with a clean-shaven , hatchet face , flushed up at the words of commendation .
+[]	[]	`` I am on the trail of my life now , Mr. Holmes , '' said he .
+[]	[]	`` If I can get Gorgiano -- ''
+[]	[]	`` What !
+[]	[]	Gorgiano of the Red Circle ? ''
+[]	[]	`` Oh , he has a European fame , has he ?
+[]	[]	Well , we 've learned all about him in America .
+[nothing] 	[nothing] 	We KNOW he is at the bottom of fifty murders , and yet we have nothing positive we can take him on .
+[]	[]	I tracked him over from New York , and I 've been close to him for a week in London , waiting some excuse to get my hand on his collar .
+[n't] 	[n't] 	Mr. Gregson and I ran him to ground in that big tenement house , and there 's only one door , so he ca n't slip us .
+[n't] 	[n't] 	There 's three folk come out since he went in , but I 'll swear he was n't one of them . ''
+[]	[]	`` Mr. Holmes talks of signals , '' said Gregson .
+[n't] 	[n't] 	`` I expect , as usual , he knows a good deal that we do n't . ''
+[]	[]	In a few clear words Holmes explained the situation as it had appeared to us .
+[]	[]	The American struck his hands together with vexation .
+[]	[]	`` He 's on to us ! '' he cried .
+[]	[]	`` Why do you think so ? ''
+[]	[]	`` Well , it figures out that way , does it not ?
+[]	[]	Here he is , sending out messages to an accomplice -- there are several of his gang in London .
+[]	[]	Then suddenly , just as by your own account he was telling them that there was danger , he broke short off .
+[]	[]	What could it mean except that from the window he had suddenly either caught sight of us in the street , or in some way come to understand how close the danger was , and that he must act right away if he was to avoid it ?
+[]	[]	What do you suggest , Mr. Holmes ? ''
+[]	[]	`` That we go up at once and see for ourselves . ''
+[no] 	[no] 	`` But we have no warrant for his arrest . ''
+[unoccupied] 	[unoccupied] 	`` He is in unoccupied premises under suspicious circumstances , '' said Gregson .
+[]	[]	`` That is good enough for the moment .
+[n't] 	[n't] 	When we have him by the heels we can see if New York ca n't help us to keep him .
+[]	[]	I 'll take the responsibility of arresting him now . ''
+[never] 	[never] 	Our official detectives may blunder in the matter of intelligence , but never in that of courage .
+[]	[]	Gregson climbed the stair to arrest this desperate murderer with the same absolutely quiet and businesslike bearing with which he would have ascended the official staircase of Scotland Yard .
+[]	[]	The Pinkerton man had tried to push past him , but Gregson had firmly elbowed him back .
+[]	[]	London dangers were the privilege of the London force .
+[]	[]	The door of the left-hand flat upon the third landing was standing ajar .
+[]	[]	Gregson pushed it open .
+[]	[]	Within all was absolute silence and darkness .
+[]	[]	I struck a match and lit the detective 's lantern .
+[]	[]	As I did so , and as the flicker steadied into a flame , we all gave a gasp of surprise .
+[carpetless] 	[]	On the deal boards of the carpetless floor there was outlined a fresh track of blood .
+[]	[]	The red steps pointed towards us and led away from an inner room , the door of which was closed .
+[]	[]	Gregson flung it open and held his light full blaze in front of him , while we all peered eagerly over his shoulders .
+[]	[]	In the middle of the floor of the empty room was huddled the figure of an enormous man , his clean-shaven , swarthy face grotesquely horrible in its contortion and his head encircled by a ghastly crimson halo of blood , lying in a broad wet circle upon the white woodwork .
+[]	[]	His knees were drawn up , his hands thrown out in agony , and from the centre of his broad , brown , upturned throat there projected the white haft of a knife driven blade-deep into his body .
+[]	[]	Giant as he was , the man must have gone down like a pole-axed ox before that terrific blow .
+[]	[]	Beside his right hand a most formidable horn-handled , two-edged dagger lay upon the floor , and near it a black kid glove .
+[]	[]	`` By George ! it 's Black Gorgiano himself ! '' cried the American detective .
+[]	[]	`` Someone has got ahead of us this time . ''
+[]	[]	`` Here is the candle in the window , Mr. Holmes , '' said Gregson .
+[]	[]	`` Why , whatever are you doing ? ''
+[]	[]	Holmes had stepped across , had lit the candle , and was passing it backward and forward across the window-panes .
+[]	[]	Then he peered into the darkness , blew the candle out , and threw it on the floor .
+[]	[]	`` I rather think that will be helpful , '' said he .
+[]	[]	He came over and stood in deep thought while the two professionals were examining the body .
+[]	[]	`` You say that three people came out from the flat while you were waiting downstairs , '' said he at last .
+[]	[]	`` Did you observe them closely ? ''
+[]	[]	`` Yes , I did . ''
+[]	[]	`` Was there a fellow about thirty , black-bearded , dark , of middle size ? ''
+[]	[]	`` Yes ; he was the last to pass me . ''
+[]	[]	`` That is your man , I fancy .
+[]	[]	I can give you his description , and we have a very excellent outline of his footmark .
+[]	[]	That should be enough for you . ''
+[Not] 	[Not] 	`` Not much , Mr. Holmes , among the millions of London . ''
+[not] 	[not] 	`` Perhaps not .
+[]	[]	That is why I thought it best to summon this lady to your aid . ''
+[]	[]	We all turned round at the words .
+[]	[]	There , framed in the doorway , was a tall and beautiful woman -- the mysterious lodger of Bloomsbury .
+[]	[]	Slowly she advanced , her face pale and drawn with a frightful apprehension , her eyes fixed and staring , her terrified gaze riveted upon the dark figure on the floor .
+[]	[]	`` You have killed him ! '' she muttered .
+[]	[]	`` Oh , Dio mio , you have killed him ! ''
+[]	[]	Then I heard a sudden sharp intake of her breath , and she sprang into the air with a cry of joy .
+[]	[]	Round and round the room she danced , her hands clapping , her dark eyes gleaming with delighted wonder , and a thousand pretty Italian exclamations pouring from her lips .
+[]	[]	It was terrible and amazing to see such a woman so convulsed with joy at such a sight .
+[]	[]	Suddenly she stopped and gazed at us all with a questioning stare .
+[]	[]	`` But you !
+[]	[]	You are police , are you not ?
+[]	[]	You have killed Giuseppe Gorgiano .
+[]	[not] 	Is it not so ? ''
+[]	[]	`` We are police , madam . ''
+[]	[]	She looked round into the shadows of the room .
+[]	[]	`` But where , then , is Gennaro ? '' she asked .
+[]	[]	`` He is my husband , Gennaro Lucca .
+[]	[]	I am Emilia Lucca , and we are both from New York .
+[]	[]	Where is Gennaro ?
+[]	[]	He called me this moment from this window , and I ran with all my speed . ''
+[]	[]	`` It was I who called , '' said Holmes .
+[]	[]	`` You !
+[]	[]	How could you call ? ''
+[not] 	[not] 	`` Your cipher was not difficult , madam .
+[]	[]	Your presence here was desirable .
+[]	[]	I knew that I had only to flash ` Vieni ' and you would surely come . ''
+[]	[]	The beautiful Italian looked with awe at my companion .
+[not] 	[not] 	`` I do not understand how you know these things , '' she said .
+[]	[]	`` Giuseppe Gorgiano -- how did he -- ''
+[]	[]	She paused , and then suddenly her face lit up with pride and delight .
+[]	[]	`` Now I see it !
+[]	[]	My Gennaro !
+[]	[]	My splendid , beautiful Gennaro , who has guarded me safe from all harm , he did it , with his own strong hand he killed the monster !
+[]	[]	Oh , Gennaro , how wonderful you are !
+[]	[]	What woman could ever be worthy of such a man ? ''
+[not] 	[not] 	`` Well , Mrs. Lucca , '' said the prosaic Gregson , laying his hand upon the lady 's sleeve with as little sentiment as if she were a Notting Hill hooligan , `` I am not very clear yet who you are or what you are ; but you 've said enough to make it very clear that we shall want you at the Yard . ''
+[]	[]	`` One moment , Gregson , '' said Holmes .
+[]	[]	`` I rather fancy that this lady may be as anxious to give us information as we can be to get it .
+[]	[]	You understand , madam , that your husband will be arrested and tried for the death of the man who lies before us ?
+[]	[]	What you say may be used in evidence .
+[not] [not] 	[not] [not] 	But if you think that he has acted from motives which are not criminal , and which he would wish to have known , then you can not serve him better than by telling us the whole story . ''
+[nothing] 	[nothing] 	`` Now that Gorgiano is dead we fear nothing , '' said the lady .
+[no] 	[no] 	`` He was a devil and a monster , and there can be no judge in the world who would punish my husband for having killed him . ''
+[]	[]	`` In that case , '' said Holmes , `` my suggestion is that we lock this door , leave things as we found them , go with this lady to her room , and form our opinion after we have heard what it is that she has to say to us . ''
+[]	[]	Half an hour later we were seated , all four , in the small sitting-room of Signora Lucca , listening to her remarkable narrative of those sinister events , the ending of which we had chanced to witness .
+[unconventional] 	[unconventional] 	She spoke in rapid and fluent but very unconventional English , which , for the sake of clearness , I will make grammatical .
+[]	[]	`` I was born in Posilippo , near Naples , '' said she , `` and was the daughter of Augusto Barelli , who was the chief lawyer and once the deputy of that part .
+[]	[]	Gennaro was in my father 's employment , and I came to love him , as any woman must .
+[neithernor] 	[neithernor] 	He had neither money nor position -- nothing but his beauty and strength and energy -- so my father forbade the match .
+[]	[]	We fled together , were married at Bari , and sold my jewels to gain the money which would take us to America .
+[]	[]	This was four years ago , and we have been in New York ever since .
+[]	[]	`` Fortune was very good to us at first .
+[]	[]	Gennaro was able to do a service to an Italian gentleman -- he saved him from some ruffians in the place called the Bowery , and so made a powerful friend .
+[]	[]	His name was Tito Castalotte , and he was the senior partner of the great firm of Castalotte and Zamba , who are the chief fruit importers of New York .
+[]	[]	Signor Zamba is an invalid , and our new friend Castalotte has all power within the firm , which employs more than three hundred men .
+[]	[]	He took my husband into his employment , made him head of a department , and showed his good-will towards him in every way .
+[]	[]	Signor Castalotte was a bachelor , and I believe that he felt as if Gennaro was his son , and both my husband and I loved him as if he were our father .
+[]	[]	We had taken and furnished a little house in Brooklyn , and our whole future seemed assured when that black cloud appeared which was soon to overspread our sky .
+[]	[]	`` One night , when Gennaro returned from his work , he brought a fellow-countryman back with him .
+[]	[]	His name was Gorgiano , and he had come also from Posilippo .
+[]	[]	He was a huge man , as you can testify , for you have looked upon his corpse .
+[]	[]	Not only was his body that of a giant but everything about him was grotesque , gigantic , and terrifying .
+[]	[]	His voice was like thunder in our little house .
+[]	[]	There was scarce room for the whirl of his great arms as he talked .
+[]	[]	His thoughts , his emotions , his passions , all were exaggerated and monstrous .
+[]	[]	He talked , or rather roared , with such energy that others could but sit and listen , cowed with the mighty stream of words .
+[]	[]	His eyes blazed at you and held you at his mercy .
+[]	[]	He was a terrible and wonderful man .
+[]	[]	I thank God that he is dead !
+[]	[]	`` He came again and again .
+[no] 	[no] 	Yet I was aware that Gennaro was no more happy than I was in his presence .
+[]	[listless] [endless] 	My poor husband would sit pale and listless , listening to the endless raving upon politics and upon social questions which made up our visitor 's conversation .
+[nothing] [never] 	[nothing] [never] 	Gennaro said nothing , but I , who knew him so well , could read in his face some emotion which I had never seen there before .
+[dislike] 	[]	At first I thought that it was dislike .
+[dislike] 	[]	And then , gradually , I understood that it was more than dislike .
+[]	[]	It was fear -- a deep , secret , shrinking fear .
+[nothing] 	[nothing] 	That night -- the night that I read his terror -- I put my arms round him and I implored him by his love for me and by all that he held dear to hold nothing from me , and to tell me why this huge man overshadowed him so .
+[]	[]	`` He told me , and my own heart grew cold as ice as I listened .
+[]	[]	My poor Gennaro , in his wild and fiery days , when all the world seemed against him and his mind was driven half mad by the injustices of life , had joined a Neapolitan society , the Red Circle , which was allied to the old Carbonari .
+[no] 	[no] 	The oaths and secrets of this brotherhood were frightful , but once within its rule no escape was possible .
+[]	[]	When we had fled to America Gennaro thought that he had cast it all off forever .
+[]	[]	What was his horror one evening to meet in the streets the very man who had initiated him in Naples , the giant Gorgiano , a man who had earned the name of ` Death ' in the south of Italy , for he was red to the elbow in murder !
+[]	[]	He had come to New York to avoid the Italian police , and he had already planted a branch of this dreadful society in his new home .
+[]	[]	All this Gennaro told me and showed me a summons which he had received that very day , a Red Circle drawn upon the head of it telling him that a lodge would be held upon a certain date , and that his presence at it was required and ordered .
+[]	[]	`` That was bad enough , but worse was to come .
+[]	[]	I had noticed for some time that when Gorgiano came to us , as he constantly did , in the evening , he spoke much to me ; and even when his words were to my husband those terrible , glaring , wild-beast eyes of his were always turned upon me .
+[]	[]	One night his secret came out .
+[]	[]	I had awakened what he called ` love ' within him -- the love of a brute -- a savage .
+[not] 	[not] 	Gennaro had not yet returned when he came .
+[]	[]	He pushed his way in , seized me in his mighty arms , hugged me in his bear 's embrace , covered me with kisses , and implored me to come away with him .
+[]	[]	I was struggling and screaming when Gennaro entered and attacked him .
+[senseless] [nevermore] 	[senseless] [never] 	He struck Gennaro senseless and fled from the house which he was never more to enter .
+[]	[]	It was a deadly enemy that we made that night .
+[]	[]	`` A few days later came the meeting .
+[]	[]	Gennaro returned from it with a face which told me that something dreadful had occurred .
+[]	[]	It was worse than we could have imagined possible .
+[]	[]	The funds of the society were raised by blackmailing rich Italians and threatening them with violence should they refuse the money .
+[]	[]	It seems that Castalotte , our dear friend and benefactor , had been approached .
+[]	[refused] 	He had refused to yield to threats , and he had handed the notices to the police .
+[]	[]	It was resolved now that such an example should be made of them as would prevent any other victim from rebelling .
+[]	[]	At the meeting it was arranged that he and his house should be blown up with dynamite .
+[]	[]	There was a drawing of lots as to who should carry out the deed .
+[]	[]	Gennaro saw our enemy 's cruel face smiling at him as he dipped his hand in the bag .
+[]	[]	No doubt it had been prearranged in some fashion , for it was the fatal disc with the Red Circle upon it , the mandate for murder , which lay upon his palm .
+[]	[]	He was to kill his best friend , or he was to expose himself and me to the vengeance of his comrades .
+[]	[]	It was part of their fiendish system to punish those whom they feared or hated by injuring not only their own persons but those whom they loved , and it was the knowledge of this which hung as a terror over my poor Gennaro 's head and drove him nearly crazy with apprehension .
+[]	[]	`` All that night we sat together , our arms round each other , each strengthening each for the troubles that lay before us .
+[]	[]	The very next evening had been fixed for the attempt .
+[not] 	[not] 	By midday my husband and I were on our way to London , but not before he had given our benefactor full warning of this danger , and had also left such information for the police as would safeguard his life for the future .
+[]	[]	`` The rest , gentlemen , you know for yourselves .
+[]	[]	We were sure that our enemies would be behind us like our own shadows .
+[]	[]	Gorgiano had his private reasons for vengeance , but in any case we knew how ruthless , cunning , and untiring he could be .
+[]	[]	Both Italy and America are full of stories of his dreadful powers .
+[]	[]	If ever they were exerted it would be now .
+[no] 	[no] 	My darling made use of the few clear days which our start had given us in arranging for a refuge for me in such a fashion that no possible danger could reach me .
+[]	[]	For his own part , he wished to be free that he might communicate both with the American and with the Italian police .
+[not] 	[not] 	I do not myself know where he lived , or how .
+[]	[]	All that I learned was through the columns of a newspaper .
+[]	[]	But once as I looked through my window , I saw two Italians watching the house , and I understood that in some way Gorgiano had found our retreat .
+[]	[]	Finally Gennaro told me , through the paper , that he would signal to me from a certain window , but when the signals came they were nothing but warnings , which were suddenly interrupted .
+[]	[]	It is very clear to me now that he knew Gorgiano to be close upon him , and that , thank God ! he was ready for him when he came .
+[]	[]	And now , gentleman , I would ask you whether we have anything to fear from the law , or whether any judge upon earth would condemn my Gennaro for what he has done ? ''
+[n't] 	[n't] 	`` Well , Mr. Gregson , '' said the American , looking across at the official , `` I do n't know what your British point of view may be , but I guess that in New York this lady 's husband will receive a pretty general vote of thanks . ''
+[]	[]	`` She will have to come with me and see the chief , '' Gregson answered .
+[not] 	[not] 	`` If what she says is corroborated , I do not think she or her husband has much to fear .
+[n't] 	[n't] 	But what I ca n't make head or tail of , Mr. Holmes , is how on earth YOU got yourself mixed up in the matter . ''
+[]	[]	`` Education , Gregson , education .
+[]	[]	Still seeking knowledge at the old university .
+[]	[]	Well , Watson , you have one more specimen of the tragic and grotesque to add to your collection .
+[not] 	[not] 	By the way , it is not eight o'clock , and a Wagner night at Covent Garden !
+[]	[]	If we hurry , we might be in time for the second act . ''

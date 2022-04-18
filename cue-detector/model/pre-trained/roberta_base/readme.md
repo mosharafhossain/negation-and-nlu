@@ -1,0 +1,1 @@
+The pre-trained model needs to be stored in this directory.

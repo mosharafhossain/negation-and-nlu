@@ -1,0 +1,15 @@
+gold_cue	predicted_cue	count
+not_a_cue	nothing	3
+not_a_cue	never	2
+not_a_cue	no	2
+not_a_cue	not	2
+not_a_cue	unfortunately	1
+not_a_cue	unspoken	1
+not_a_cue	without	1
+not_a_cue	irritable	1
+not_a_cue	absence	1
+not_a_cue	unlock	1
+not_a_cue	prevent	1
+not_a_cue	listless	1
+not_a_cue	endless	1
+not_a_cue	refused	1
