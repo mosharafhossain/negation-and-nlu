@@ -1,0 +1,100 @@
+index	dev_index	sentence1	cues	sentence2	cues	target_word	judgment	is_important
+1	296	For an ellipse, the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi-major axis.		A circle is an ellipse with zero eccentricity.	zero [6]	eccentricity	TRUE	No
+2	365	Those who criticize others often are not perfect, either.	not [6]	The paper criticized the new movie.		criticize	FALSE	No
+3	197	I seem to be misunderstood by everyone.		There seems no reason to go ahead with the project now.	no [2]	seem	FALSE	No
+4	561	Don't fuss too much over the grandchildren -- they are quite big now.	n't [1]	She fusses over her husband.		fuss	FALSE	No
+5	272	He hadn't seen his dad in years.	n't [2]	Dad, happy Father's Day!		dad	TRUE	No
+6	432	There was no meeting of minds.	no [2]	The meeting elected a chairperson.		meeting	FALSE	No
+7	41	The operator couldn't get Kobe because of the earthquake.	n't [3]	I'll get this finished by lunchtime.		get	FALSE	No
+8	188	Printing at higher resolution will cause a reduction in performance.		They never did achieve a final resolution of their differences.	never [1]	resolution	FALSE	No
+9	181	Utter counterfeit currency.		He uttered strange sounds that nobody could understand.	nobody [5]	utter	FALSE	No
+10	416	Today is a Wiccan holiday!		No mail is delivered on federal holidays.	No [0]	holiday	TRUE	No
+11	518	I am reading a good book on economics.		He was frustrated because he couldn't find anything about dinosaurs in the book.	n't [6]	book	TRUE	No
+12	227	I know of the man; but have no acquaintance with him.	no [8]	I have trouble remembering the names of all my acquaintances.		acquaintance	FALSE	No
+13	263	Making a hobby of domesticity.		A royal family living in unpretentious domesticity.	unpretentious [5]	domesticity	FALSE	No
+14	458	Had unusual longevity in the company.	unusual [1]	Her longevity as a star.		longevity	TRUE	No
+15	130	I am trying to contact my sister.		He never contacted his children after he emigrated to Australia.	never [1]	contact	TRUE	No
+16	624	It's a pity he couldn't do it.	n't [6]	The blind are too often objects of pity.		pity	FALSE	No
+17	601	I applaud your efforts.		Although we don't like your methods, we applaud your motives.	n't [3]	applaud	TRUE	No
+18	248	His date never stopped talking.	never [2]	The date for pleading.		date	FALSE	No
+19	434	People do that sort of thing every day, without ever stopping to reflect on the consequences.	without [9]	The teacher's ability reflects well on the school.		reflect	FALSE	No
+20	452	It was not what it appeared to be on the surface.	not [2]	The cloth had a pattern of red dots on a white surface.		surface	FALSE	No
+21	496	The nurse gave him a flu shot.		He tried to get unposed shots of his friends.	unposed [4]	shot	FALSE	No
+22	269	One can never fully repair the suffering and losses of the Jews in the Third Reich.	never [2]	She repaired her TV set.		repair	FALSE	No
+23	31	Answer the question.		She didn't want to answer.	n't [2]	answer	TRUE	No
+24	455	There's no help for it.	no [2]	I need some help with my homework.		help	FALSE	No
+25	322	This silly excuse won't wash in traffic court.	n't [4]	The cat washes several times a day.		wash	FALSE	No
+26	541	The reality of his situation slowly dawned on him.		The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend.	no [18]	reality	TRUE	No
+27	529	We must not proliferate nuclear arms.	not [2]	The flowers proliferated rapidly all spring.		proliferate	TRUE	No
+28	557	His claim to the property has come under question.		He obeyed without question.	without [2]	question	TRUE	No
+29	551	The room was simply decorated with great restraint.		The car did not have proper restraints fitted.	not [3]	restraint	FALSE	No
+30	488	I would like to thank the brother who just spoke.		None of his brothers would betray him.	None [0]	brother	TRUE	No
+31	512	Hooligans destroy unprovoked.	unprovoked [2]	The fire destroyed the house.		destroy	TRUE	No
+32	26	Leave lots of time for the trip.		This leaves no room for improvement.	no [2]	leave	TRUE	No
+33	480	He worships the almighty dollar.		The dollar coin has never been popular in the United States.	never [4]	dollar	FALSE	No
+34	517	Even the pitcher doesn't know where his knuckleball is going.	n't [4]	Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball.		knuckleball	TRUE	No
+35	11	An assurance of help when needed.		His assurance in his superiority did not make him popular.	not [6]	assurance	FALSE	No
+36	331	The sultriness of her look was unmistakable.	unmistakable [6]	The sultriness of lust was in the air.		sultriness	TRUE	No
+37	183	Guests should never be late to a dinner party.	never [2]	On Sundays they had a large dinner when they returned from church.		dinner	FALSE	No
+38	620	Juvenile offenses often reflect an inadequacy in the parents.		The inadequacy of unemployment benefits.	inadequacy [1] | unemployment [3]	inadequacy	FALSE	No
+39	242	We didn't believe his stories from the War.	n't [2]	I believed his report.		believe	TRUE	No
+40	352	Their troops were untrained militia.	untrained [3]	Congress shall have power to provide for calling forth the militia -- United States Constitution.		militia	TRUE	No
+41	391	We can't afford to send our children to college.	n't [2]	Can you afford this car?		afford	TRUE	No
+42	274	The woman charged that her jailer was a fondler.		Not all fondlers are sexual perverts.	Not [0]	fondler	TRUE	No
+43	204	To pick rags.		Don't always pick on your little brother.	n't [1]	pick	FALSE	No
+44	109	Scientists often can not date precisely archeological or prehistorical findings.	not [3]	To date the building of the pyramids.		date	TRUE	No
+45	325	The steak was tough to chew as it had been cooked too long.		Chew your food and don't swallow it!	n't [5]	chew	TRUE	No
+46	126	It was a miracle that he survived the drop from that height.		That was a long drop, but fortunately I didn't break any bones.	n't [10]	drop	FALSE	No
+47	91	A recrudescence of racism.	recrudescence [1]	A recrudescence of the symptoms.	recrudescence [1]	recrudescence	TRUE	No
+48	297	Don't fiddle with the screws.	n't [1]	She always fiddles with her van on the weekend.		fiddle	FALSE	No
+49	157	Don't strain your mind too much.	n't [1]	The rope strained when the weight was attached.		strain	FALSE	No
+50	423	Be careful crossing the street.		The whole street protested the absence of lights.	absence [5]	street	FALSE	No
+51	313	Please can I have a look, if I promise not to touch?	not [10]	Carrie touched his shoulder with the stick.		touch	TRUE	No
+52	32	The weather system of the Pacific is determined by the uninterrupted smoothness of the ocean.	uninterrupted [10]	His oily smoothness concealed his guilt from the police.		smoothness	FALSE	No
+53	351	She can not conceive.	not [2]	Assisted procreation can help those trying to conceive.		conceive	TRUE	No
+54	67	Her reinstatement to her former office followed quickly.		Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement.	unhappy [3]	reinstatement	FALSE	No
+55	251	There's no weeping at an Irish wake.	no [2]	The motorboat's wake capsized the canoe.		wake	FALSE	No
+56	500	Don't twist my words.	n't [1]	Twist the dough into a braid.		twist	FALSE	No
+57	282	They didn't have much in the way of clothing.	n't [2]	We went our separate ways.		way	FALSE	No
+58	45	His work established a new department of literature.		Baking is not my department.	not [2]	department	TRUE	No
+59	334	To mire a horse or wagon.		Our people should not be mired in the past.	not [3]	mire	FALSE	No
+60	382	We combust coal and other fossil fuels.		The professor combusted when the student didn't know the answer to a very elementary question.	n't [7]	combust	FALSE	No
+61	64	Some languages sexualize all nouns and do not have a neuter gender.	not [7]	The god was sexualized and married to another god.		sexualize	TRUE	No
+62	430	His thinking was in the American mainstream.		His ideas were well outside the mainstream, but he presented them intelligently, and we were impressed if not convinced.	not [19]	mainstream	TRUE	No
+63	612	I can not risk smoking.	not [2]	Why risk your life?		risk	TRUE	No
+64	68	The belief that the world is flat is a falsity.		Argument could not determine its truth or falsity.	not [2]	falsity	TRUE	No
+65	22	The stick does not bend.	not [3]	Bend your knees.		bend	FALSE	No
+66	75	That thing is a poor excuse for a gingerbread man. Hasn't anyone taught you how to bake?	n't [12]	He's a sorry excuse of a doctor.		excuse	TRUE	No
+67	428	These delicate plants do not transplant easily.	not [4]	Transplant the young rice plants.		transplant	FALSE	No
+68	568	The dissipation of the mist.		Mindless dissipation of natural resources.	Mindless [0]	dissipation	FALSE	No
+69	211	The might have repercussions of unimaginable largeness.	unimaginable [5]	A man distinguished by the largeness and scope of his views.		largeness	FALSE	No
+70	493	Here's a good potluck of beans and stew.		Having arrived unannounced we had to take potluck.	unannounced [2]	potluck	TRUE	No
+71	345	He came out of nowhere.	nowhere [4]	They went on a cruise to nowhere.	nowhere [6]	nowhere	TRUE	No
+72	347	Elizabethan schoolboys were taught adoxography, the art of eruditely praising worthless things.	worthless [11]	Adoxography is particularly useful to lawyers.		adoxography	TRUE	No
+73	487	All that bowing and scraping did not impress him.	not [6]	They collected blood scrapings for analysis.		scraping	FALSE	No
+74	114	One aspect of Waterloo has not yet been treated in the literature.	not [5]	The technical literature.		literature	TRUE	No
+75	509	Wait a minute, I'm not ready yet!	not [6]	It only takes a minute.		minute	TRUE	No
+76	489	Let's not whitewash the crimes of Stalin.	not [2]	In his sermon, the minister didn't try to whitewash over the sins of his church.	n't [7]	whitewash	FALSE	No
+77	419	Washing dishes is a chore, but we can not just stop eating.	not [9]	The farmer's morning chores.		chore	TRUE	No
+78	476	We did not understand his motivation.	not [2]	His motivation was at a high level.		motivation	FALSE	No
+79	127	Among other native delicacies, they give you fresh char.".		I had to scrub the kitchen today, because the char couldn't come".	n't [13]	char	FALSE	No
+80	234	He was a tool, no more than a pawn to her.	no [5]	I don't have the right tools to start fiddling around with the engine.	n't [2]	tool	FALSE	No
+81	511	The unhappy couple got into a terrible scrap.	unhappy [1]	That car isn't good for anything but scrap.	n't [3]	scrap	FALSE	No
+82	482	This shall not relieve either Party of any obligations.	not [2]	The thief relieved me of $100.		relieve	FALSE	No
+83	262	The dancer was praised for her uncanny extension.	uncanny [6]	Good extension comes from a combination of training and native ability.		extension	TRUE	No
+84	95	He could not conceal his hostility.	not [2]	He could no longer contain his hostility.	no [2]	hostility	FALSE	No
+85	16	He could not touch the meaning of the poem.	not [2]	Helen Keller felt the physical world by touching people and objects around her.		touch	FALSE	No
+86	386	You can not be convicted of criminal guilt by association.	not [2]	He joined the Modern Language Association.		association	FALSE	No
+87	539	It is none of your affair.	none [2]	He used a hook-shaped affair with a long handle to unlock the car.		affair	TRUE	No
+88	470	Direct your anger towards others, not towards yourself.	not [6]	He directed all his energies into his dissertation.		direct	FALSE	No
+89	442	In a world where financial probity may not be widespread.	not [7]	He enjoys an exaggerated reputation for probity.		probity	TRUE	No
+90	168	His success in the marathon was unexpected.	unexpected [6]	The election was a remarkable success for the Whigs.		success	FALSE	No
+91	379	He published an unexpected attack on my work.	unexpected [3]	An attack of diarrhea.		attack	FALSE	No
+92	172	His studio was cramped when he began as an artist.		You don't need a studio to make a passport photograph.	n't [2]	studio	TRUE	No
+93	590	You can crash here, though it's not very comfortable.	not [8]	The terrorists crashed the plane into the palace.		crash	FALSE	No
+94	514	Pinnacle a pediment.		He did not want to be pinnacled.	not [2]	pinnacle	FALSE	No
+95	23	$50 won't even buy a dress.	n't [3]	FMC has bought 565.		buy	TRUE	No
+96	405	Don't handle the merchandise.	n't [1]	About his altar, handling holy things -- John Milton.		handle	TRUE	No
+97	315	We went there by foot because we could not afford a taxi.	not [8]	There is a lot of foot traffic on this street.		foot	TRUE	No
+98	259	The intolerable license with which the newspapers break ... the rules of decorum -- Edmund Burke.	intolerable [1]	When liberty becomes license dictatorship is near -- Will Durant.		license	TRUE	No
+99	149	The intention of this legislation is to boost the economy.		Good intentions are not enough.	not [3]	intention	TRUE	No

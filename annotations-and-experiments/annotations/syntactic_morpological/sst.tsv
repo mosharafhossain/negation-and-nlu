@@ -1,0 +1,264 @@
+index	dev_index	text	cues	judgment	is_important	negation_type
+1	34	it does n't believe in itself , it has no sense of humor ... it 's just plain bored .	n't [2] | no [9]	0	Yes	SYN
+2	833	ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine .	unsatisfying [4] | without [11]	0	Yes	AFFIX
+3	786	the film makes a fatal mistake : it asks us to care about a young man whose only apparent virtue is that he is not quite as unpleasant as some of the people in his life .	not [24] | unpleasant [27]	0	No	SYN
+4	235	whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie .	n't [11]	1	No	SYN
+5	165	may reawaken discussion of the kennedy assassination but this fictional film looks made for cable rather than for the big screen .	rather than [15, 16]	0	No	SYN
+6	151	a big , gorgeous , sprawling swashbuckler that delivers its diversions in grand , uncomplicated fashion .	uncomplicated [14]	1	No	AFFIX
+7	301	the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays .	unfortunately [25] | n't [27]	0	Yes	AFFIX
+8	172	it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel .	n't [17]	1	No	SYN
+9	372	the special effects and many scenes of weightlessness look as good or better than in the original , while the oscar-winning sound and james horner 's rousing score make good use of the hefty audio system .	weightlessness [7]	1	No	AFFIX
+10	128	montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .	not [22]	1	Yes	SYN
+11	452	it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .	n't [6] | undetermined [30]	0	Yes	SYN
+12	319	too much of it feels unfocused and underdeveloped .	unfocused [5]	0	Yes	AFFIX
+13	745	made with no discernible craft and monstrously sanctimonious in dealing with childhood loss .	no [2]	0	No	SYN
+14	697	not since tom cruise in risky business has an actor made such a strong impression in his underwear .	not [0]	1	No	SYN
+15	571	passable entertainment , but it 's the kind of motion picture that wo n't make much of a splash when it 's released , and will not be remembered long afterwards .	n't [13] | not [26]	0	Yes	SYN
+16	114	it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it .	n't [6]	1	No	SYN
+17	274	it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that .	unlikeable [13]	0	Yes	AFFIX
+18	692	sustains its dreamlike glide through a succession of cheesy coincidences and voluptuous cheap effects , not the least of which is rebecca romijn-stamos .	not [15]	0	No	SYN
+19	60	this is a story of two misfits who do n't stand a chance alone , but together they are magnificent .	n't [9]	1	No	SYN
+20	173	determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult .	n't [15]	0	Yes	SYN
+21	358	( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .	n't [4]	1	No	SYN
+22	551	nothing in waking up in reno ever inspired me to think of its inhabitants as anything more than markers in a screenplay .	nothing [0]	0	No	SYN
+23	845	despite the evocative aesthetics evincing the hollow state of modern love life , the film never percolates beyond a monotonous whine .	never [15]	0	Yes	SYN
+24	858	the film 's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip .	unbelievably [7]	1	No	AFFIX
+25	589	if your taste runs to ` difficult ' films you absolutely ca n't miss it .	n't [12]	1	No	SYN
+26	469	so unremittingly awful that labeling it a dog probably constitutes cruelty to canines .	unremittingly [1]	0	No	AFFIX
+27	539	do not see this film .	not [1]	0	Yes	SYN
+28	398	despite its title , punch-drunk love is never heavy-handed .	never [9]	1	Yes	SYN
+29	139	it 's not the ultimate depression-era gangster movie .	not [2]	0	Yes	SYN
+30	871	looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '	not [19]	1	Yes	SYN
+31	382	a great ensemble cast ca n't lift this heartfelt enterprise out of the familiar .	n't [5]	0	Yes	SYN
+32	162	there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there .	no [4]	0	Yes	SYN
+33	161	not exactly the bees knees	not [0]	0	Yes	SYN
+34	719	whaley 's determination to immerse you in sheer , unrelenting wretchedness is exhausting .	unrelenting [9]	0	No	AFFIX
+35	480	while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while .	n't [3]	1	No	SYN
+36	157	it takes talent to make a lifeless movie about the most heinous man who ever lived .	lifeless [6]	0	No	AFFIX
+37	695	sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you .	n't [8]	0	Yes	SYN
+38	223	corny , schmaltzy and predictable , but still manages to be kind of heartwarming , nonetheless .	nonetheless [15]	1	No	AFFIX
+39	180	unfortunately , it 's not silly fun unless you enjoy really bad movies .	not [4]	0	No	SYN
+40	735	the experience of going to a film festival is a rewarding one ; the experiencing of sampling one through this movie is not .	not [22]	0	Yes	SYN
+41	43	holm ... embodies the character with an effortlessly regal charisma .	effortlessly [7]	1	No	AFFIX
+42	160	uncommonly stylish but equally silly ... the picture fails to generate much suspense , nor does it ask searching enough questions to justify its pretensions .	nor [14]	0	No	SYN
+43	483	even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch .	n't [4]	1	No	SYN
+44	101	his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it .	nothing [16]	0	Yes	SYN
+45	789	it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker .	not [15]	0	No	SYN
+46	25	nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy .	uncertain [3]	0	Yes	AFFIX
+47	678	the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb .	n't [3] | n't [21]	1	No	SYN
+48	145	the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .	n't [20]	0	Yes	SYN
+49	373	not since freddy got fingered has a major release been so painful to sit through .	not [0]	0	No	SYN
+50	19	in its best moments , resembles a bad high school production of grease , without benefit of song .	without [14]	0	No	SYN
+51	110	scores no points for originality , wit , or intelligence .	no [1]	0	Yes	SYN
+52	606	makes for a pretty unpleasant viewing experience .	unpleasant [4]	0	Yes	AFFIX
+53	208	and the lesson , in the end , is nothing new .	nothing [9]	0	Yes	SYN
+54	369	without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality .	without [0]	1	Yes	SYN
+55	630	a taut psychological thriller that does n't waste a moment of its two-hour running time .	n't [6]	1	Yes	SYN
+56	734	this is n't even madonna 's swept away .	n't [2]	0	No	SYN
+57	584	a hamfisted romantic comedy that makes our girl the hapless facilitator of an extended cheap shot across the mason-dixon line .	hapless [9]	0	No	AFFIX
+58	255	no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .	no [0]	0	No	SYN
+59	513	care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters .	never [13]	0	Yes	SYN
+60	847	... mafia , rap stars and hood rats butt their ugly heads in a regurgitation of cinematic violence that gives brutal birth to an unlikely , but likable , hero . '	unlikely [24]	1	No	AFFIX
+61	578	just not campy enough	not [1]	0	Yes	SYN
+62	676	well-nigh unendurable ... though the picture strains to become cinematic poetry , it remains depressingly prosaic and dull .	unendurable [3]	0	No	AFFIX
+63	268	a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .	not [16]	0	No	SYN
+64	616	there 's really only one good idea in this movie , but the director runs with it and presents it with an unforgettable visual panache .	unforgettable [22]	1	Yes	AFFIX
+65	514	this is an egotistical endeavor from the daughter of horror director dario argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic .	fearlessness [25]	1	No	AFFIX
+66	804	but the power of these ( subjects ) is obscured by the majority of the film that shows a stationary camera on a subject that could be mistaken for giving a public oration , rather than contributing to a film 's narrative .	rather [34]	0	No	SYN
+67	194	instead of a hyperbolic beat-charged urban western , it 's an unpretentious , sociologically pointed slice of life .	unpretentious [13]	1	Yes	AFFIX
+68	707	no telegraphing is too obvious or simplistic for this movie .	no [0]	0	No	SYN
+69	486	the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .	n't [3] | not [7]	0	Yes	SYN
+70	608	highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up .	not [8]	1	No	SYN
+71	92	you wo n't like roger , but you will quickly recognize him .	n't [2]	0	Yes	SYN
+72	532	for anyone unfamiliar with pentacostal practices in general and theatrical phenomenon of hell houses in particular , it 's an eye-opener .	unfamiliar [2]	1	No	AFFIX
+73	119	comes ... uncomfortably close to coasting in the treads of the bicycle thief .	uncomfortably [2]	0	No	AFFIX
+74	618	without non-stop techno or the existential overtones of a kieslowski morality tale , maelström is just another winter sleepers .	without [0] | non [1]	0	No	SYN
+75	542	there 's no emotional pulse to solaris .	no [2]	0	Yes	SYN
+76	694	no aspirations to social import inform the movie version .	no [0]	0	Yes	SYN
+77	61	schaeffer has to find some hook on which to hang his persistently useless movies , and it might as well be the resuscitation of the middle-aged character .	useless [12]	0	Yes	AFFIX
+78	433	the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger .	not [22]	1	No	SYN
+79	494	it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff .	not [9] | not [13] | without [14]	0	No	SYN
+80	346	not only unfunny , but downright repellent .	unfunny [2]	0	Yes	AFFIX
+81	835	a giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of oscar-winners : susan sarandon and goldie hawn .	unlikely [13]	1	No	AFFIX
+82	854	for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution .	no [16]	0	Yes	SYN
+83	788	based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters	never [20]	1	No	SYN
+84	328	an unwise amalgam of broadcast news and vibes .	unwise [1]	0	Yes	AFFIX
+85	377	nothing is sacred in this gut-buster .	nothing [0]	0	Yes	SYN
+86	555	... plot holes so large and obvious a marching band might as well be stomping through them in clown clothes , playing a college football fight song on untuned instruments .	untuned [28]	0	No	AFFIX
+87	215	the best revenge may just be living well because this film , unlike other dumas adaptations , is far more likened to a treasure than a lengthy jail sentence .	unlike [12]	1	No	AFFIX
+88	553	so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! '	unassuming [1] | n't [9]	1	No	AFFIX
+89	79	this is a train wreck of an action film -- a stupefying attempt by the filmmakers to force-feed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs .	mindless [24]	0	No	AFFIX
+90	624	challenging , intermittently engrossing and unflaggingly creative .	unflaggingly [5]	1	No	AFFIX
+91	291	even with a green mohawk and a sheet of fire-red flame tattoos covering his shoulder , however , kilmer seems to be posing , rather than acting .	rather [26]	0	No	SYN
+92	201	inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat .	not [21]	1	No	SYN
+93	824	late marriage 's stiffness is unlikely to demonstrate the emotional clout to sweep u.s. viewers off their feet .	unlikely [5]	0	No	AFFIX
+94	612	davis ... is so enamored of her own creation that she ca n't see how insufferable the character is .	n't [12]	0	No	SYN
+95	831	it 's made with deftly unsettling genre flair .	unsettling [5]	1	No	AFFIX
+96	592	zaidan 's script has barely enough plot to string the stunts together and not quite enough characterization to keep the faces straight .	not [13]	0	No	SYN
+97	141	the character of zigzag is not sufficiently developed to support a film constructed around him .	not [5]	0	Yes	SYN
+98	232	it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .	not [2] | n't [7] | n't [17] | without [30]	0	Yes	SYN
+99	31	... designed to provide a mix of smiles and tears , `` crossroads '' instead provokes a handful of unintentional howlers and numerous yawns .	unintentional [20]	0	No	AFFIX
+100	435	a marvel like none you 've seen .	none [3]	1	No	SYN
+101	633	still , as a visual treat , the film is almost unsurpassed .	unsurpassed [11]	1	No	AFFIX
+102	701	even the finest chef ca n't make a hotdog into anything more than a hotdog , and robert de niro ca n't make this movie anything more than a trashy cop buddy comedy .	n't [5] | n't [21]	0	No	SYN
+103	862	it 's inoffensive , cheerful , built to inspire the young people , set to an unending soundtrack of beach party pop numbers and aside from its remarkable camerawork and awesome scenery , it 's about as exciting as a sunburn .	unending [16]	0	No	AFFIX
+104	395	another in-your-face wallow in the lower depths made by people who have never sung those blues .	never [16]	0	No	SYN
+105	558	although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists .	not [4]	1	No	SYN
+106	621	kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth .	n't [2]	1	No	SYN
+107	144	while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film .	not [13] | lifeless [18]	0	Yes	SYN
+108	94	byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama .	never [16]	1	Yes	SYN
+109	109	it 's great escapist fun that recreates a place and time that will never happen again .	never [13]	1	No	SYN
+110	641	the magic of the film lies not in the mysterious spring but in the richness of its performances .	not [6]	1	No	SYN
+111	347	works hard to establish rounded characters , but then has nothing fresh or particularly interesting to say about them .	nothing [10]	0	Yes	SYN
+112	14	even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .	not [6]	0	Yes	SYN
+113	374	the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty .	n't [21]	0	Yes	SYN
+114	288	the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .	without [24]	1	No	SYN
+115	691	an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it .	not [8]	1	No	SYN
+116	595	all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that .	n't [16]	0	No	SYN
+117	106	the movie 's relatively simple plot and uncomplicated morality play well with the affable cast .	uncomplicated [7]	1	No	AFFIX
+118	399	if director michael dowse only superficially understands his characters , he does n't hold them in contempt .	n't [12]	0	No	SYN
+119	662	there 's not enough here to justify the almost two hours .	not [2]	0	Yes	SYN
+120	843	a wildly inconsistent emotional experience .	inconsistent [2]	0	No	AFFIX
+121	236	not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .	not [0]	1	No	SYN
+122	593	the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .	nothing [13]	1	Yes	SYN
+123	121	it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so	without [14]	0	No	SYN
+124	108	too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance .	n't [6]	0	Yes	SYN
+125	581	it can not be enjoyed , even on the level that one enjoys a bad slasher flick , primarily because it is dull .	not [2]	0	Yes	SYN
+126	501	harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all .	no [16]	1	No	SYN
+127	796	a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz .	nothing [7]	1	No	SYN
+128	550	... nothing scary here except for some awful acting and lame special effects .	nothing [1]	0	No	SYN
+129	538	it 's so mediocre , despite the dynamic duo on the marquee , that we just ca n't get no satisfaction .	n't [17] | no [19]	0	Yes	SYN
+130	440	this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other .	none [35]	1	No	SYN
+131	475	belongs to daniel day-lewis as much as it belongs to martin scorsese ; it 's a memorable performance in a big , brassy , disturbing , unusual and highly successful film .	unusual [28]	1	No	AFFIX
+132	568	it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem .	nothing [2]	0	No	SYN
+133	816	a spellbinding african film about the modern condition of rootlessness , a state experienced by millions around the globe .	rootlessness [9]	1	No	AFFIX
+134	653	a lackluster , unessential sequel to the classic disney adaptation of j.m. barrie 's peter pan .	lackluster [1] | unessential [3]	0	Yes	AFFIX
+135	280	it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation .	relentless [6]	1	Yes	AFFIX
+136	335	with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry 's boss , there is n't a redeeming moment here .	n't [19]	0	No	SYN
+137	482	cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .	nothing [15]	1	No	SYN
+138	394	whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting .	none [29]	1	No	SYN
+139	442	the notion that bombing buildings is the funniest thing in the world goes entirely unexamined in this startlingly unfunny comedy .	unfunny [18]	0	Yes	AFFIX
+140	851	impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly .	n't [18]	0	Yes	SYN
+141	683	true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable .	unspeakable [20]	1	No	AFFIX
+142	147	the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .	n't [19]	0	Yes	SYN
+143	631	burns never really harnesses to full effect the energetic cast .	never [1]	0	Yes	SYN
+144	70	for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam .	never [21]	0	Yes	SYN
+145	237	a by-the-numbers effort that wo n't do much to enhance the franchise .	n't [9]	0	Yes	SYN
+146	1	unflinchingly bleak and desperate	unflinchingly [0]	0	No	AFFIX
+147	685	no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .	no [0]	1	No	SYN
+148	703	samira makhmalbaf 's new film blackboards is much like the ethos of a stream of consciousness , although , it 's unfortunate for the viewer that the thoughts and reflections coming through are torpid and banal	unfortunate [21]	0	No	AFFIX
+149	437	immersing us in the endlessly inventive , fiercely competitive world of hip-hop djs , the project is sensational and revelatory , even if scratching makes you itch .	endlessly [4]	1	No	AFFIX
+150	340	the most hopelessly monotonous film of the year , noteworthy only for the gimmick of being filmed as a single unbroken 87-minute take .	hopelessly [2] | unbroken [20]	0	No	AFFIX
+151	465	shaky close-ups of turkey-on-rolls , stubbly chins , liver spots , red noses and the filmmakers new bobbed do draw easy chuckles but lead nowhere .	nowhere [30]	0	Yes	SYN
+152	264	it ca n't decide if it wants to be a mystery/thriller , a romance or a comedy .	n't [2]	0	Yes	SYN
+153	827	the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting .	no [9]	0	No	SYN
+154	258	`` the time machine '' is a movie that has no interest in itself .	no [11]	0	Yes	SYN
+155	506	crackerjack entertainment -- nonstop romance , music , suspense and action .	nonstop [3]	1	No	AFFIX
+156	355	there is no pleasure in watching a child suffer .	no [2]	0	Yes	SYN
+157	693	because of an unnecessary and clumsy last scene , ` swimfan ' left me with a very bad feeling .	unnecessary [3]	0	No	AFFIX
+158	591	i got a headache watching this meaningless downer .	meaningless [6]	0	No	AFFIX
+159	548	i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal .	not [17]	0	Yes	SYN
+160	414	it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience .	unlike [7] | not [14]	1	Yes	AFFIX
+161	530	a superbly acted and funny/gritty fable of the humanizing of one woman at the hands of the unseen forces of fate .	unseen [19]	1	No	AFFIX
+162	350	his comedy premises are often hackneyed or just plain crude , calculated to provoke shocked laughter , without following up on a deeper level .	without [17]	0	Yes	SYN
+163	528	it haunts , horrifies , startles and fascinates ; it is impossible to look away .	impossible [11]	1	No	AFFIX
+164	562	scorsese does n't give us a character worth giving a damn about .	n't [2]	0	Yes	SYN
+165	342	in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy .	not [7]	0	No	SYN
+166	619	an unclassifiably awful study in self - and audience-abuse .	unclassifiably [1]	0	No	AFFIX
+167	59	it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface .	never [24]	0	Yes	SYN
+168	20	pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins .	uneven [19] | never [23]	0	No	AFFIX
+169	78	there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine .	nothing [2]	1	No	SYN
+170	491	as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality .	not [16] | hopeless [28]	0	No	SYN
+171	100	neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula .	neither [0]	1	No	SYN
+172	564	the plot convolutions ultimately add up to nothing more than jerking the audience 's chain .	nothing [7]	0	Yes	SYN
+173	771	very special effects , brilliantly bold colors and heightened reality ca n't hide the giant achilles ' heel in `` stuart little 2 `` : there 's just no story , folks .	n't [11] | no [30]	0	Yes	SYN
+174	423	i am sorry that i was unable to get the full brunt of the comedy .	unable [6]	0	No	AFFIX
+175	354	the film is quiet , threatening and unforgettable .	unforgettable [7]	1	Yes	AFFIX
+176	269	with virtually no interesting elements for an audience to focus on , chelsea walls is a triple-espresso endurance challenge .	no [2]	0	No	SYN
+177	458	featuring a dangerously seductive performance from the great daniel auteuil , `` sade '' covers the same period as kaufmann 's `` quills '' with more unsettlingly realistic results .	unsettlingly [28]	1	No	AFFIX
+178	149	the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance .	unhurried [11]	1	No	AFFIX
+179	724	it 's everything you do n't go to the movies for .	n't [5]	0	Yes	SYN
+180	441	there is very little dread or apprehension , and though i like the creepy ideas , they are not executed with anything more than perfunctory skill .	not [18]	0	No	SYN
+181	645	the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate .	n't [11] | never [18]	0	Yes	SYN
+182	107	what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .	n't [4]	0	No	SYN
+183	357	stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time .	nothing [11]	0	No	SYN
+184	209	this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience .	not [2] | not [14]	0	No	SYN
+185	782	the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .	never [28]	1	No	SYN
+186	749	a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .	no [12] | no [16]	1	Yes	SYN
+187	146	about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological .	not [19]	1	No	SYN
+188	368	the humor is forced and heavy-handed , and occasionally simply unpleasant .	unpleasant [12]	0	No	AFFIX
+189	496	it 's about following your dreams , no matter what your parents think .	no [7]	1	No	SYN
+190	671	two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .	n't [12]	1	No	SYN
+191	411	i do n't mind having my heartstrings pulled , but do n't treat me like a fool .	n't [2] | n't [11]	0	Yes	SYN
+192	865	mcconaughey 's fun to watch , the dragons are okay , not much fire in the script .	not [11]	1	No	SYN
+193	713	corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in .	undeniably [4]	0	No	AFFIX
+194	610	like you could n't smell this turkey rotting from miles away .	n't [3]	0	No	SYN
+195	97	no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand .	no [0]	1	No	SYN
+196	586	the humor is n't as sharp , the effects not as innovative , nor the story as imaginative as in the original .	n't [3] | not [9] | nor [13]	0	Yes	SYN
+197	177	does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence .	n't [1]	0	Yes	SYN
+198	421	it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them .	not [9]	1	No	SYN
+199	663	it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way .	n't [7]	1	No	SYN
+200	765	not an objectionable or dull film ; it merely lacks everything except good intentions .	not [0] | objectionable [2]	0	No	SYN
+201	429	the film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style .	not [6] | nonexistent [13]	0	No	SYN
+202	428	beautifully observed , miraculously unsentimental comedy-drama .	unsentimental [4]	1	No	AFFIX
+203	166	characters still need to function according to some set of believable and comprehensible impulses , no matter how many drugs they do or how much artistic license avary employs .	comprehensible [12] | no [15]	0	No	SYN
+204	345	this tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , nicholas meyer 's star trek vi : the undiscovered country .	undiscovered [37]	1	No	AFFIX
+205	869	a subject like this should inspire reaction in its audience ; the pianist does not .	not [14]	0	Yes	SYN
+206	857	visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality .	without [22]	1	No	SYN
+207	199	at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave .	n't [8] | n't [22]	0	Yes	SYN
+208	677	majidi is an unconventional storyteller , capable of finding beauty in the most depressing places .	unconventional [3]	1	No	AFFIX
+209	45	it offers little beyond the momentary joys of pretty and weightless intellectual entertainment .	weightless [10]	0	No	AFFIX
+210	375	we have n't seen such hilarity since say it is n't so !	n't [2] | n't [10]	1	No	SYN
+211	184	though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining .	neither nor [23, 26]	0	No	SYN
+212	793	... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume .	n't [14]	1	Yes	SYN
+213	422	it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise .	without [7] | n't [12]	1	No	SYN
+214	400	it 's refreshing to see a girl-power movie that does n't feel it has to prove anything .	n't [12]	1	No	SYN
+215	88	fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .	n't [24]	1	No	SYN
+216	489	it 's dumb , but more importantly , it 's just not scary .	not [11]	0	No	SYN
+217	363	it 's a grab bag of genres that do n't add up to a whole lot of sense .	n't [9]	0	Yes	SYN
+218	711	overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube .	not [13]	0	No	SYN
+219	795	the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment .	no [3] | no [7]	0	Yes	SYN
+220	317	all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us .	not [24]	1	No	SYN
+221	770	i do n't think i laughed out loud once .	n't [2]	0	No	SYN
+222	292	the story and the friendship proceeds in such a way that you 're watching a soap opera rather than a chronicle of the ups and downs that accompany lifelong friendships .	rather [17]	0	No	SYN
+223	588	... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know .	n't [5]	1	No	SYN
+224	210	not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time .	not [9]	1	No	SYN
+225	446	with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap .	inexorable [7]	0	No	AFFIX
+226	728	but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck .	not [17]	1	Yes	SYN
+227	759	if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam .	n't [25]	0	No	SYN
+228	349	... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .	unforgivably [3] | without [12]	0	No	AFFIX
+229	800	for all its technical virtuosity , the film is so mired in juvenile and near-xenophobic pedagogy that it 's enough to make one pine for the day when godard can no longer handle the rigors of filmmaking .	no [32]	0	No	SYN
+230	605	puts a human face on a land most westerners are unfamiliar with .	unfamiliar [10]	1	No	AFFIX
+231	750	nelson 's brutally unsentimental approach ... sucks the humanity from the film , leaving behind an horrific but weirdly unemotional spectacle .	unsentimental [3] | unemotional [19]	0	No	AFFIX
+232	257	taylor appears to have blown his entire budget on soundtrack rights and had nothing left over for jokes .	nothing [13]	0	No	SYN
+233	672	in all , this is a watchable movie that 's not quite the memorable experience it might have been .	not [10]	0	Yes	SYN
+234	182	i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand .	n't [13]	0	Yes	SYN
+235	65	you wonder why enough was n't just a music video rather than a full-length movie .	n't [5]	0	Yes	SYN
+236	627	nervous breakdowns are not entertaining .	not [3]	0	No	SYN
+237	167	the end result is a film that 's neither .	neither [8]	0	No	SYN
+238	499	unlike the speedy wham-bam effect of most hollywood offerings , character development -- and more importantly , character empathy -- is at the heart of italian for beginners .	unlike [0]	1	No	AFFIX
+239	42	the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation .	never [11]	1	Yes	SYN
+240	190	try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '	n't [7]	0	Yes	SYN
+241	343	no way i can believe this load of junk .	no [0]	0	No	SYN
+242	248	a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution .	not [8]	1	No	SYN
+243	517	not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics .	not [0]	1	No	SYN
+244	649	the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .	no [25] | no [28]	0	Yes	SYN
+245	117	moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not .	unforced [10] | not [24]	1	No	AFFIX
+246	224	nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun .	nothing [0]	1	No	SYN
+247	766	while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving .	not [9]	1	No	SYN
+248	127	in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest .	rather [16]	0	Yes	SYN
+249	819	the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second .	not [18] | not [26]	0	Yes	SYN
+250	797	it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks .	not [2] | n't [16]	0	Yes	SYN
+251	772	not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit .	not [0]	1	No	SYN
+252	356	jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot .	none [18]	0	No	SYN
+253	775	not really bad so much as distasteful : we need kidnapping suspense dramas right now like we need doomsday thrillers .	not [0]	0	No	SYN
+254	864	dull , lifeless , and amateurishly assembled .	lifeless [2]	0	No	AFFIX
+255	560	do n't be fooled by the impressive cast list - eye see you is pure junk .	n't [1]	0	No	SYN
+256	298	serving sara does n't serve up a whole lot of laughs .	n't [3]	0	Yes	SYN
+257	515	if looking for a thrilling sci-fi cinematic ride , do n't settle for this imposter .	n't [12]	0	Yes	SYN
+258	8	you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance .	n't [2]	1	No	SYN
+259	230	reign of fire looks as if it was made without much thought -- and is best watched that way .	without [9]	1	No	SYN
+260	111	there is n't nearly enough fun here , despite the presence of some appealing ingredients .	n't [2]	0	Yes	SYN
+261	699	... routine , harmless diversion and little else .	harmless [3]	1	Yes	AFFIX
+262	503	dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .	no [2] | no [5]	0	No	SYN
+263	665	and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins .	not [4]	1	No	SYN
