@@ -1,4 +1,5 @@
-# An Analysis of Negation in Natural Language Understanding Corpora
+An Analysis of Negation in Natural Language Understanding Corpora
+===================================================================
 This repository contains the code and data of the ACL2022 paper "An Analysis of Negation in Natural Language Understanding Corpora". The arxiv version of the paper is also available [here](https://arxiv.org/pdf/2203.08929.pdf).
 Authors: Md Mosharaf Hossain, Dhivya Chinnappa, and Eduardo Blanco
 
