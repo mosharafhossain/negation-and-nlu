@@ -1,9 +1,7 @@
-# Experiments-with-RoBERTa
-
-## Requirements
+## Requirements for the Experiments
 Python 3.7 
 ### Install jiant python package 
-We utilize the jiant python toolkit. More information on the toolkit can be found [here](https://github.com/nyu-mll/jiant)
+We utilized **jiant** python toolkit. For additional information regarding installation and usage, please visit the official site [here](https://github.com/nyu-mll/jiant).
 
 ```bash
 git clone https://github.com/nyu-mll/jiant.git
