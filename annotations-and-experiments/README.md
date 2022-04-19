@@ -1,3 +1,6 @@
+## Annotated Data
+The annotated data for this project can be found under the [annotations](https://github.com/mosharafhossain/negation-and-nlu/tree/main/annotations-and-experiments/annotations) directory. 
+
 ## Requirements for the Experiments
 Python 3.7 
 ### Install jiant python package 
